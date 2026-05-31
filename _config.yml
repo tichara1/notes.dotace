@@ -9,6 +9,10 @@ search_enabled: true
 heading_anchors: true
 color_scheme: light
 
+# Mermaid diagramy (grafy v Rešerši) – načítá se z CDN
+mermaid:
+  version: "10.9.3"
+
 aux_links:
   GitHub repo:
     - "https://github.com/tichara1/notes.dotace"

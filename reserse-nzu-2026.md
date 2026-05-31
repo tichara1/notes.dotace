@@ -20,6 +20,145 @@ nav_order: 7
 
 ---
 
+## 0) Můj případ — podklady, grafy a souhrnný propočet
+
+> Tato sekce shrnuje **jen to, co se týká mého domu**. Všechny ceny/propočty jsou **orientační odhad**; jednotkové ceny energií jsou **skutečné** (z mých faktur). Hodnoty závisí na doplnění **plochy střechy** a finálních nabídkách.
+
+### 0.1 Vstupní údaje (podklady pro přepočet)
+
+**Dům:** RD, kolaudace **2009** (splňuje „před 1. 7. 2013"), Středočeský kraj, obec u Dřetovic (okr. Kladno). Konstrukce **Porotherm bez zateplení**. **Nenízkopříjmová** domácnost → větev **bezúročný úvěr**.
+
+**Plánovaná opatření a rozsah:**
+
+| Opatření | Rozsah | Sazba (max. úvěr) | Strop |
+|---|---|---|---|
+| Zateplení fasády | **250 m²** | 3 500 Kč/m² | — |
+| Zateplení střechy | **_doplnit m²_** | 3 500 Kč/m² | — |
+| Okna (volitelné) | **44,69 m²** (19 ks) | 12 000 Kč/m² | — |
+| Dveře (volitelné) | **12,11 m²** (4 ks) | 12 000 Kč/m² | — |
+| Otvory celkem | **56,81 m²** (23) | 12 000 Kč/m² | — |
+| FVE | **~8 kWp** (střecha ~40 m²) | 25 000 Kč/kWp | 400 000 Kč (vč. baterie) |
+| Baterie | **~10 kWh** | 15 000 Kč/kWh | (v rámci 400 000) |
+| Wallbox + EV | nájezd **25 000 km/rok** | způsobilý výdaj obl. C | — |
+| Retenční nádrž z jímky (D.2) | přestavba jímky | — | 100 000 Kč |
+
+**Spotřeba a ceny energií (skutečné z faktur):**
+
+| Energie | Období | Spotřeba | Zaplaceno (vč. DPH) | **Jednotková cena** |
+|---|---|---|---|---|
+| Elektřina | 25. 6. 2024 – 26. 6. 2025 (rok) | 5 931 kWh (VT 4 435 / NT 1 496) | 47 185,35 Kč | **~7,96 Kč/kWh** |
+| Plyn | 16. 12. 2024 – 3. 9. 2025 (261 dní) | 24 050,35 kWh (2 201,75 m³) | 44 284,76 Kč | **~1,84 Kč/kWh** |
+
+- **Roční spotřeba plynu (odhad):** ~30 MWh (lineární přepočet 261 dní = ~33,6 MWh **nadhodnocuje**, období je zimou vážené). → **roční náklad na plyn ~52 000–58 000 Kč** (orientačně).
+- **Roční náklad na energie (základ pro % úsporu):** elektřina 47 185 Kč + plyn ~55 000 Kč ≈ **~100 000 Kč/rok**.
+- **Auto:** 25 000 km/rok → EV ~4 000–5 000 kWh/rok; benzín ~66 000 Kč/rok (7 l/100 km × 38 Kč/l).
+
+<details><summary>Detailní rozpis zaměřených otvorů (klikni)</summary>
+
+| Patro | Otvor | m² | | Patro | Otvor | m² |
+|---|---|---|---|---|---|---|
+| 1.NP | Ložnice – balkonové | 3,275 | | 0.NP | Garáž – okno A | 1,978 |
+| 1.NP | Šatna – okno A | 1,566 | | 0.NP | Předsíň – okno B | 0,716 |
+| 1.NP | Koupelna A – okno B | 1,495 | | 0.NP | Koupelna B – okno C | 1,879 |
+| 1.NP | Pracovna – okno C | 1,483 | | 0.NP | Kuchyň – okno D | 1,924 |
+| 1.NP | Pracovna – okno D | 1,571 | | 0.NP | Kuchyň – okno E | 4,195 |
+| 1.NP | Eli pokoj – balkonové dveře | 3,200 | | 0.NP | Kuchyň – okno F | 4,195 |
+| 1.NP | Eli pokoj – okno E | 3,637 | | 0.NP | Kuchyň – okno G | 2,833 |
+| 1.NP | Tom pokoj – okno F | 2,387 | | 0.NP | Kuchyň – okno H | 2,833 |
+| 1.NP | Tom pokoj – okno G | 1,785 | | **Dveře** | Garáž – dveře A | 2,129 |
+| 1.NP | Pokoj hosté – okno H | 2,269 | | **Dveře** | Předsíň – hlavní dveře B | 4,252 |
+| 1.NP | Pokoj hosté – šatna okno I | 1,473 | | **Dveře** | Kuchyň – dveře C | 2,289 |
+| | | | | **Dveře** | Kuchyň – dvoukřídlé D | 3,444 |
+
+Okna 44,69 m² (19 ks) · Dveře 12,11 m² (4 ks) · **Celkem 56,81 m² (23 otvorů)**. Pozn.: garážové otvory mohou být mimo vytápěnou obálku → nárok ověřit; garážová vrata jsou z podpory vyloučena.
+</details>
+
+### 0.2 Graf — orientační náklady vs. maximální úvěr (tis. Kč)
+
+> Sloupec = orientační cena opatření, čára = strop úvěru (sazba × rozsah). Kde čára ≥ sloupec, úvěr pokryje plnou cenu.
+
+```mermaid
+xychart-beta
+    title "Naklady (sloupec) vs. strop uveru (cara) - tis. Kc"
+    x-axis ["Fasada", "Okna+dvere", "FVE+baterie", "Wallbox", "Retence"]
+    y-axis "tis. Kc" 0 --> 900
+    bar [450, 520, 370, 35, 80]
+    line [875, 682, 350, 35, 100]
+```
+
+### 0.3 Graf — energetická bilance FVE (kWh/rok)
+
+> Sloupec = spotřeba domu, čára = výroba FVE (~8 000 kWh). Bez EV je přebytek, s EV deficit → důraz na vlastní spotřebu a nabíjení přes den.
+
+```mermaid
+xychart-beta
+    title "FVE: spotreba (sloupec) vs. vyroba (cara) - kWh/rok"
+    x-axis ["Bez EV", "S EV"]
+    y-axis "kWh/rok" 0 --> 11000
+    bar [5931, 10431]
+    line [8000, 8000]
+```
+
+### 0.4 Harmonogram 2026
+
+```mermaid
+gantt
+    title Harmonogram 2026 (orientacni)
+    dateFormat YYYY-MM-DD
+    axisFormat %m/%y
+    section Priprava
+    Poradenstvi + PENB + projekt        :prep, 2026-06-01, 75d
+    section Zadost
+    Podani zadosti (AIS, od 25.6.)       :milestone, m1, 2026-06-25, 0d
+    Posouzeni + Rozhodnuti ministra      :appr, 2026-07-01, 75d
+    section Uver a realizace
+    Smlouva o uveru (banky od zari)      :loan, 2026-09-01, 30d
+    Realizace opatreni                   :real, 2026-09-15, 210d
+    section Zaver
+    Dolozeni dokonceni (do 31.12.2031)   :milestone, m2, 2027-05-01, 0d
+```
+
+### 0.5 Splatnost a strop úvěru
+
+```mermaid
+flowchart TD
+    A["Vyse uveru?"] -->|do 500 tis.| B["max 10 let"]
+    A -->|nad 500 tis.| C["max 15 let -- TVUJ pripad"]
+    C -->|"komplexni + prijem do 4. decilu"| D["az 25 let"]
+    D -.->|"netyka se -- nejsi nizkoprijmovy"| C
+```
+
+```mermaid
+xychart-beta
+    title "Soucet opatreni vs. strop uveru (tis. Kc)"
+    x-axis ["Jadro (bez oken)", "Vc. oken", "Strop NZU"]
+    y-axis "tis. Kc" 0 --> 2100
+    bar [935, 1455, 2000]
+```
+
+### 0.6 Souhrnný propočet: investice → splátka → úspora → % úspory
+
+> Vše orientační. Jednotkové ceny energií jsou skutečné (faktury). Úspora vytápění předpokládá **komplexní** zateplení (fasáda + okna + střecha) ~45 %; bez střechy je nižší. **Doplň plochu střechy** pro upřesnění.
+
+| Krok | Hodnota (orientačně) |
+|---|---|
+| **Investice** celkem (fasáda + okna + FVE+baterie + wallbox + retence, **bez střechy**) | **~1 455 000 Kč** |
+| Pokryto bezúročným úvěrem | ~1 435 000 Kč |
+| Doplatek z vlastního (hl. část FVE nad strop) | ~20 000 Kč |
+| Vejde se do stropu 2 mil. Kč? | **Ano** (rezerva ~545 tis. i na střechu) |
+| **Měsíční splátka** (15 let, bezúročně) | **~8 000 Kč/měs** |
+| Ušetřeno na úrocích vs. běžný úvěr 5,5 % p.a. | **~650 000 Kč** za dobu splácení |
+| Roční úspora **vytápění** (~45 % z plynu, plyn 1,84 Kč/kWh) | ~21 000 Kč/rok |
+| Roční úspora **elektřiny** (vlastní spotřeba FVE ~4 000 kWh × 7,96 Kč) | ~30 000 Kč/rok |
+| **Roční úspora energie celkem** | **~51 000 Kč/rok** |
+| Současné roční náklady energie (plyn + elektřina) | ~100 000 Kč/rok |
+| **➡ Úspora ≈ 45–55 % ročních nákladů na energie** | **~50 %** |
+| (Bonus) úspora paliva **EV vs. benzín** | ~45 000–50 000 Kč/rok |
+
+**Cash-flow poctivě:** během splácení je **splátka (~96 000 Kč/rok) vyšší než energetická úspora (~51 000 Kč/rok)** — renovaci splácíš, neplatí se „sama". Pokud ale pořídíš i **EV**, úspora za palivo (~48 000 Kč/rok) téměř vyrovná rozdíl a cash-flow je zhruba neutrální. **Po splacení** zůstává čistá úspora ~51 000 Kč/rok (+ EV) + vyšší komfort a hodnota nemovitosti. Elektřina je u tebe drahá (7,96 Kč/kWh) → **FVE je ekonomicky nejsilnější opatření**; plyn je levný (1,84 Kč/kWh) → úspora ze zateplení je v Kč skromnější (ale roste s plochou střechy a budoucí cenou plynu).
+
+---
+
 ## 1) Způsobilost — do které větve spadáte
 
 V roce 2026 existují fakticky **dvě živé větve** pro rodinné domy:
@@ -93,8 +232,7 @@ Jednotkové částky = **maximální výše úvěru** na jednotku (Závazné pok
 
 ### Oblast C — Zdroje energie
 - **C.3 Fotovoltaika:** **25 000 Kč/kWp** + **15 000 Kč/kWh** baterie (lithium). **Strop opatření 400 000 Kč.** Min. výkon 3 kWp. **Baterie je povinná** — min. kapacita (kWh) ≥ instalovaný výkon (kWp). **Dobíjecí stanice (wallbox) je způsobilý výdaj** v rámci oblasti C (kap. 7.3 b).
-- C.1 Výměna zdroje tepla: TČ vzduch-voda 350 000 Kč, země-voda/voda-voda 400 000 Kč, vzduch-vzduch 200 000 Kč, kotel na biomasu 200 000 / 300 000 Kč, kamna 100 000 / 200 000 Kč (jen pro úplnost — neplánujete).
-- C.2 Příprava teplé vody (solár/FV/TČ): 100 000 Kč. C.4 Řízené větrání s rekuperací: 200 000 Kč. C.5 Teplo z odpadní vody: 100 000 Kč.
+> *Škrtnuto (netýká se vás): C.1 výměna zdroje tepla, C.2 ohřev vody, C.4 řízené větrání/rekuperace, C.5 teplo z odpadní vody. Plynový kotel u komplexní renovace zůstat může (plyn není tuhé fosilní palivo); podmínku „alespoň jeden OZE" splní FVE.*
 
 ### Oblast D — Adaptační opatření (jen v kombinaci s A nebo C!)
 - **D.2 Hospodaření s vodou** — **přesně se týká vaší jímky**:
@@ -104,7 +242,6 @@ Jednotkové částky = **maximální výše úvěru** na jednotku (Závazné pok
   - Min. objem nádrže na dešťovku: **2 m³**.
   - **Pozor 1:** Oblast D lze podpořit **jen v kombinaci** se zateplením (A) nebo zdroji (C). Vy ji budete kombinovat → OK.
   - **Pozor 2:** Podpora cílí na **užitkovou vodu** (splachování WC, úklid); samotná **zálivka** je jen „sekundární využití". Systém čistě na zálivku bez napojení do domu nemusí splnit podmínku. Ověřte s projektantem.
-- D.1 Zelená střecha: 2 000 Kč/m², strop 150 000 Kč (neplánujete).
 
 ### Program „Dešťovka"
 Samostatná „Dešťovka" je **integrována do NZÚ 2026** (oblast D.2). Na stejnou nemovitost **nelze** čerpat, pokud už byla Dešťovka vyplacena. Pro vás tedy platí výše uvedené sazby D.2 v rámci úvěru.
