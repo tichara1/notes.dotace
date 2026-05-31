@@ -1,0 +1,14 @@
+title: Rekonstrukce domu + dotace
+description: Plánování rekonstrukce a dotace Nová zelená úsporám 2026+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# just-the-docs
+search_enabled: true
+heading_anchors: true
+color_scheme: light
+
+aux_links:
+  GitHub repo:
+    - "https://github.com/tichara1/notes.dotace"
