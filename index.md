@@ -24,8 +24,9 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
 > _Odškrtávej `- [x]`, jak postupuješ. Detail u jednotlivých kroků na odkazovaných stránkách._
 
 - [ ] Ujasnit a sepsat **rozsah rekonstrukce** → [Cíl a rozsah](01-prehled/cil-a-rozsah.html)
-- [ ] Vybrat 5 kandidátů na **energetického specialistu** z rejstříku a poptat balíček
-      PENB + projekt + dozor → [Specialisté](03-specialiste/specialiste-kladno.html),
+- [ ] Vybrat 5 kandidátů na **energetického specialistu** a poptat balíček
+      renovační pas / PENB + projekt + dozor →
+      [Poradci NZÚ 2026 (renovační pas)](03-specialiste/poradci-renovacni-pas.html),
       [stav oslovení](03-specialiste/oslovene-kontakty.html)
 - [x] ~~Ověřit příjmový decil~~ — spadáme **nad 4. decil → splatnost 15 let**
       (viz [Rešerše](reserse-nzu-2026.html))

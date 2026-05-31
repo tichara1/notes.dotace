@@ -20,6 +20,7 @@ zpracuje renovační pas / posudek a provází žádostí.
 - Dokumentace domu (LV, projekt, fotky)
 - Přístup k domu pro prohlídku
 
+Poradci NZÚ 2026 s renovačním pasem (dle vzdálenosti) → [Poradci NZÚ 2026 — renovační pas](poradci-renovacni-pas.html)
 Ověření držitelé PENB v okrese → [Specialisté PENB (okres Kladno)](specialiste-kladno.html)
 
 ## Jak vybíráme
