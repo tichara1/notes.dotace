@@ -20,6 +20,8 @@ zpracuje renovační pas / posudek a provází žádostí.
 - Dokumentace domu (LV, projekt, fotky)
 - Přístup k domu pro prohlídku
 
+Ověření držitelé PENB v okrese → [Specialisté PENB (okres Kladno)](specialiste-kladno.html)
+
 ## Jak vybíráme
 - [ ] Ověřit certifikaci (zápis v seznamu MPO / SFŽP)
 - [ ] Reference / zkušenost s NZÚ
