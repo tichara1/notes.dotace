@@ -33,7 +33,7 @@ nav_order: 7
 | Opatření | Rozsah | Sazba (max. úvěr) | Strop |
 |---|---|---|---|
 | Zateplení fasády | **250 m²** | 3 500 Kč/m² | — |
-| Zateplení střechy | **_doplnit m²_** | 3 500 Kč/m² | — |
+| Střecha | **už zateplená (vata)** — jen oprava po kunách (pár m²) | drobné, ne samostatné opatření | — |
 | Okna (volitelné) | **44,69 m²** (19 ks) | 12 000 Kč/m² | — |
 | Dveře (volitelné) | **12,11 m²** (4 ks) | 12 000 Kč/m² | — |
 | Otvory celkem | **56,81 m²** (23) | 12 000 Kč/m² | — |
@@ -138,24 +138,26 @@ xychart-beta
 
 ### 0.6 Souhrnný propočet: investice → splátka → úspora → % úspory
 
-> Vše orientační. Jednotkové ceny energií jsou skutečné (faktury). Úspora vytápění předpokládá **komplexní** zateplení (fasáda + okna + střecha) ~45 %; bez střechy je nižší. **Doplň plochu střechy** pro upřesnění.
+> Vše orientační. Jednotkové ceny energií jsou skutečné (faktury). **Střecha je už zateplená** (minerální vata) — počítá se jen drobná oprava po kunách, ne plnohodnotné zateplení. Úspora vytápění tak plyne hlavně ze **stěn + oken** (~35 %).
 
 | Krok | Hodnota (orientačně) |
 |---|---|
-| **Investice** celkem (fasáda + okna + FVE+baterie + wallbox + retence, **bez střechy**) | **~1 455 000 Kč** |
+| **Investice** celkem (fasáda + okna + FVE+baterie + wallbox + retence) | **~1 455 000 Kč** |
 | Pokryto bezúročným úvěrem | ~1 435 000 Kč |
 | Doplatek z vlastního (hl. část FVE nad strop) | ~20 000 Kč |
-| Vejde se do stropu 2 mil. Kč? | **Ano** (rezerva ~545 tis. i na střechu) |
+| Vejde se do stropu 2 mil. Kč? | **Ano** (rezerva ~545 tis.) |
 | **Měsíční splátka** (15 let, bezúročně) | **~8 000 Kč/měs** |
 | Ušetřeno na úrocích vs. běžný úvěr 5,5 % p.a. | **~650 000 Kč** za dobu splácení |
-| Roční úspora **vytápění** (~45 % z plynu, plyn 1,84 Kč/kWh) | ~21 000 Kč/rok |
+| Roční úspora **vytápění** (~35 %, stěny+okna; střecha už zateplená; plyn 1,84 Kč/kWh) | ~17 000 Kč/rok |
 | Roční úspora **elektřiny** (vlastní spotřeba FVE ~4 000 kWh × 7,96 Kč) | ~30 000 Kč/rok |
-| **Roční úspora energie celkem** | **~51 000 Kč/rok** |
+| **Roční úspora energie celkem** | **~47 000 Kč/rok** |
 | Současné roční náklady energie (plyn + elektřina) | ~100 000 Kč/rok |
-| **➡ Úspora ≈ 45–55 % ročních nákladů na energie** | **~50 %** |
+| **➡ Úspora ≈ 45–50 % ročních nákladů na energie** | **~47 %** |
 | (Bonus) úspora paliva **EV vs. benzín** | ~45 000–50 000 Kč/rok |
 
-**Cash-flow poctivě:** během splácení je **splátka (~96 000 Kč/rok) vyšší než energetická úspora (~51 000 Kč/rok)** — renovaci splácíš, neplatí se „sama". Pokud ale pořídíš i **EV**, úspora za palivo (~48 000 Kč/rok) téměř vyrovná rozdíl a cash-flow je zhruba neutrální. **Po splacení** zůstává čistá úspora ~51 000 Kč/rok (+ EV) + vyšší komfort a hodnota nemovitosti. Elektřina je u tebe drahá (7,96 Kč/kWh) → **FVE je ekonomicky nejsilnější opatření**; plyn je levný (1,84 Kč/kWh) → úspora ze zateplení je v Kč skromnější (ale roste s plochou střechy a budoucí cenou plynu).
+**Cash-flow poctivě:** během splácení je **splátka (~96 000 Kč/rok) vyšší než energetická úspora (~47 000 Kč/rok)** — renovaci splácíš, neplatí se „sama". Pokud ale pořídíš i **EV**, úspora za palivo (~48 000 Kč/rok) rozdíl téměř vyrovná a cash-flow je zhruba neutrální. **Po splacení** zůstává čistá úspora ~47 000 Kč/rok (+ EV) + vyšší komfort a hodnota nemovitosti. Elektřina je u tebe drahá (7,96 Kč/kWh) → **FVE je ekonomicky nejsilnější opatření**; plyn je levný (1,84 Kč/kWh) → úspora ze zateplení je v Kč skromnější (poroste s budoucí cenou plynu).
+
+> ⚠ **Pozor pro komplexní renovaci:** aby projekt prošel jako *komplexní* (strop 2 mil. + kombinace s vodou D.2), musí obálka **včetně střechy** splnit třídu C. **Opravu vaty vytahané kunami proto zahrň do projektu**, ať střecha vyhoví — jinak může být překážkou. Posoudí energetický specialista v PENB.
 
 ---
 
@@ -386,9 +388,9 @@ Pomocným skriptem `tools/mpo-enex-kladno.py` byl **31. 5. 2026** stažen z rejs
 - Naměřeno: **24 050 kWh / 261 dní** (zahrnuje zimu, ne celý podzim → roční přepočet **nadhodnocuje**). Roční spotřeba plynu orientačně **~30–34 MWh**.
 - Z toho vytápění (po odečtení TV a vaření ~3–4 MWh): **~26–30 MWh/rok**.
 - **Samotné zateplení stěn** typicky uspoří **~25–35 %** energie na vytápění → **~6,5–10,5 MWh/rok**.
-- Při ceně plynu **~2,0–2,8 Kč/kWh** (vč. distribuce, 2026) → úspora **~13 000–29 000 Kč/rok**.
-- Prostá návratnost samotné fasády: cca **15–35 let** — *ale* s bezúročným úvěrem nejde o klasickou návratnost, spíš o **rozložení nákladu do bezúročných splátek** + dlouhodobou úsporu.
-- **Komplexně (stěny + střecha + okna)** úspora vytápění bývá **40–55 %**, návratnost příznivější.
+- Při **skutečné** ceně plynu **~1,84 Kč/kWh** (z faktury) → úspora **~12 000–17 000 Kč/rok**.
+- Prostá návratnost samotné fasády: dlouhá — *ale* s bezúročným úvěrem nejde o klasickou návratnost, spíš o **rozložení nákladu do bezúročných splátek** + dlouhodobou úsporu.
+- **U vás (stěny + okna; střecha už zateplená)** úspora vytápění spíš **30–40 %** (~17 000 Kč/rok). Opravu izolace střechy po kunách zahrň do projektu kvůli splnění třídy C.
 
 > Zdroj úspor: [hypoindex.cz](https://www.hypoindex.cz/clanky/kolik-zaplati-v-pristim-roce-majitele-nezateplenych-ci-malo-zateplenych-domu/), [schlieger.cz – vytápění 2026](https://schlieger.cz/blog/srovnani-nakladu-na-vytapeni/) — komerční; zateplení fasády 30–50 % úspory vytápění.
 
