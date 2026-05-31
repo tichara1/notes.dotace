@@ -136,6 +136,11 @@ xychart-beta
     bar [935, 1455, 2000]
 ```
 
+> **Splatnost — náš případ:** orientační propočet příjmu domácnosti nás řadí
+> **nad 4. příjmový decil**, podmínka pro splatnost 25 let tedy **není splněna**.
+> Počítáme reálně se **splatností do 15 let** (úvěr nad 500 tis. Kč). Na samotný
+> nárok na bezúročný úvěr to vliv nemá. Závazné číslo dá oficiální výpočtový nástroj.
+
 ### 0.6 Souhrnný propočet: investice → splátka → úspora → % úspory
 
 > Vše orientační. Jednotkové ceny energií jsou skutečné (faktury). **Střecha je už zateplená** (minerální vata) — počítá se jen drobná oprava po kunách, ne plnohodnotné zateplení. Úspora vytápění tak plyne hlavně ze **stěn + oken** (~35 %).

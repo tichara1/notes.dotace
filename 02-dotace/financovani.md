@@ -25,6 +25,7 @@ Od 2026 je pro běžné žadatele místo přímé dotace **bezúročný úvěr**
 - Odhad celkových nákladů: _viz [Rozpočet](../05-rozpocet/rozpocet.html)_
 - Kolik pokryje dotace/úvěr:
 - Vlastní zdroje potřebné:
+- Měsíční dopad (splátka + energie): _viz [Měsíční platby](mesicni-naklady.html)_
 
 ## Rozhodnutí
 > _Pro jakou variantu jdeme a proč._
