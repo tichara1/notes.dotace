@@ -10,6 +10,30 @@ nav_order: 3
 > Staženo: **2026-05-31**. Středočeský kraj celkem: 279 držitelů PENB; v okrese Kladno / dojezdu Dřetovic: **17**.
 > Jména, telefony, e-maily a platnost jsou z rejstříku (ověřitelné). Hodnocení rejstřík neobsahuje → ověřte přes odkazy ve sloupci *Ověření hodnocení*.
 
+## Pořadí podle vzdálenosti od Dřetovic (273 42)
+
+Orientační dojezd od Dřetovic. **Hvězdičkové hodnocení rejstřík neobsahuje** — ověř
+přes odkazy ve sloupci *Ověření hodnocení* v tabulce níže (Google Maps / Firmy.cz).
+
+1. **Havránek František** — Buštěhrad (~5 km) — 777 715 364
+2. **Kapička Petr** — Kladno (~10 km) — 731 164 545
+3. **Kolouch Pavel** — Kladno (~10 km) — 732 766 520
+4. **Kvarda Rostislav** (ITES) — Kladno (~10 km) — 312 248 787
+5. **Rodová Marie** — Kladno (~10 km) — 725 929 349 · _je i v [Poradcích NZÚ 2026](poradci-renovacni-pas.html)_
+6. **Šafus Jaromír** — Kladno (~10 km) — 605 723 795
+7. **Gamanová Anna** — Kladno (~10 km) — 775 081 285 · _je i v [Poradcích NZÚ 2026](poradci-renovacni-pas.html)_
+8. **Drvota Petr** — Slaný (~13 km) — 773 240 240
+9. **Langer Josef** — Slaný (~13 km) — 723 998 260
+10. **Matějka Lukáš** — Kralupy nad Vltavou (~15 km) — 774 265 253
+11. **Matějka Jindřich** — Kralupy nad Vltavou (~15 km) — 777 265 257
+12. **Dědina Radek** — Bratronice / Dolní Bezděkov (~20 km) — 732 713 886
+13. **ITES spol. s r.o.** — Stochov (~22 km) — 312 249 787
+14. **Bechyně Antonín** — Lány (~24 km) — 777 745 069
+15. **Fejtková Pavlína** / Bydlení a energie s.r.o. — Lány (~24 km) — 732 477 928 · _je i v [Poradcích NZÚ 2026](poradci-renovacni-pas.html)_
+16. **Švigárová Pavlína** — Lány (~24 km) — 605 947 237
+
+> V rámci stejné obce (Kladno, Lány) nelze z rejstříku přesnější vzdálenost určit — pořadí uvnitř obce je orientační.
+
 | Jméno / firma | Adresa | Platnost PENB | Telefon | E-mail | Detail v rejstříku | Ověření hodnocení |
 |---|---|---|---|---|---|---|
 | Havránek František | Buštěhrad | 25.1.2029 | +420 777 715 364 | f.havranek@gmail.com | [detail](https://www.mpo-enex.cz/experti/ExpertList.aspx?idSpec=1648) | [Maps](https://www.google.com/maps/search/?api=1&query=Havr%C3%A1nek%20Franti%C5%A1ek%20Bu%C5%A1t%C4%9Bhrad) · [Firmy.cz](https://www.firmy.cz/?q=Havr%C3%A1nek%20Franti%C5%A1ek) · [Google](https://www.google.com/search?q=Havr%C3%A1nek%20Franti%C5%A1ek%20Bu%C5%A1t%C4%9Bhrad%20recenze%20hodnocen%C3%AD) |

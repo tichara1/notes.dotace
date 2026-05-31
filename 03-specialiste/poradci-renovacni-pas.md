@@ -17,6 +17,10 @@ Tohle je **jiný a pro NZÚ 2026 přímější zdroj** než rejstřík PENB →
 jen poradce s příznakem ✓ ve sloupci *Renovační pas*. Poradenství a renovační pas
 přes tuto síť bývá **bezplatné / za nízkou cenu** (viz [Rešerše, bod 4](../reserse-nzu-2026.html)).
 
+> **Hodnocení:** oficiální zdroj hvězdičkové hodnocení **neobsahuje** a spolehlivě
+> se mi ho nepodařilo dohledat (nevymýšlím ho). Ověř si ho u konkrétních kandidátů
+> přes **web firmy** (sloupec *Web*), **Google Maps** nebo **Firmy.cz**.
+
 | # | Jméno | Subjekt | Renov. pas | Telefon | E-mail | Web | Působnost |
 |---|-------|---------|:----------:|---------|--------|-----|-----------|
 | 1 | Ladislav Jůna | Centrum udržitelné energie z.s. | ✓ | 605 451 981 | ladislav.juna@cenerg.cz | [cenerg.cz](https://www.cenerg.cz) | Beroun, Kladno, Praha, Praha-východ, Praha-západ |
