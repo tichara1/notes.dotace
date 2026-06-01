@@ -40,11 +40,11 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
 Nejlépe hodnocení poradci pro NZÚ (renovační pas, ideálně + projekt + dozor),
 ověřeno přes Google Maps **1. 6. 2026**:
 
-| # | Kdo | Hodnocení | Co dělá | Telefon |
-|---|-----|-----------|---------|---------|
-| 1 | **Consultora s.r.o.** (Jan Vitouš) | ★ 5,0 (258) | renovační pas + celý NZÚ proces | 720 348 522 |
-| 2 | **AltenergyCZ — Ing. arch. M. Šimůnek** (Kladno ~10 km) | ★ 4,9 (62) | renovační pas + projekt (architekt) | 775 320 337 |
-| 3 | **OFSTONE s.r.o.** (Tomáš Tíkal) | ★ 5,0 (7) | renovační pas + projekt (architekti) | 775 155 331 |
+| # | Kdo | Hodnocení | Co dělá | Telefon | E-mail | Web |
+|---|-----|-----------|---------|---------|--------|-----|
+| 1 | **Consultora s.r.o.** (Jan Vitouš) | ★ 5,0 (258) | renovační pas + celý NZÚ proces | 720 348 522 | vitousja@gmail.com | [consultora.cz](https://www.consultora.cz) |
+| 2 | **AltenergyCZ — Ing. arch. M. Šimůnek** (Kladno ~10 km) | ★ 4,9 (62) | renovační pas + projekt (architekt) | 775 320 337 | simunek.martin@email.cz | [altenergy.cz](https://altenergy.cz/) |
+| 3 | **OFSTONE s.r.o.** (Tomáš Tíkal) | ★ 5,0 (7) | renovační pas + projekt (architekti) | 775 155 331 | tikal@penb-prukazy.cz | [ofstone.cz](https://www.ofstone.cz) |
 
 Detail a další kandidáti → [Poradci NZÚ 2026 — renovační pas](03-specialiste/poradci-renovacni-pas.html).
 Alternativa s vysokým hodnocením: **chciPRŮKAZ – PENB** ★ 5,0 (45) — ověřit, zda dělá i renovační pas.
