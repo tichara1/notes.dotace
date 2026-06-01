@@ -15,6 +15,11 @@ nav_order: 3
 Orientační dojezd od Dřetovic. **Hvězdičkové hodnocení rejstřík neobsahuje** — ověř
 přes odkazy ve sloupci *Ověření hodnocení* v tabulce níže (Google Maps / Firmy.cz).
 
+> **Ověřeno přes Google Maps (1. 6. 2026):** ITES spol. s r.o. **★ 5,0 (1 recenze)**.
+> Ostatní jednotlivci (Havránek, Kapička, Rodová, Gamanová) nemají vlastní profil → *nenalezeno*.
+> Nejlépe hodnocení v Kladně: **AltenergyCZ / Ing. arch. Šimůnek ★ 4,9 (62)** (má i
+> renovační pas → [Poradci NZÚ 2026](poradci-renovacni-pas.html)) a **chciPRŮKAZ – PENB ★ 5,0 (45)**.
+
 1. **Havránek František** — Buštěhrad (~5 km) — 777 715 364
 2. **Kapička Petr** — Kladno (~10 km) — 731 164 545
 3. **Kolouch Pavel** — Kladno (~10 km) — 732 766 520

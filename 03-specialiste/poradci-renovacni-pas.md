@@ -17,9 +17,20 @@ Tohle je **jiný a pro NZÚ 2026 přímější zdroj** než rejstřík PENB →
 jen poradce s příznakem ✓ ve sloupci *Renovační pas*. Poradenství a renovační pas
 přes tuto síť bývá **bezplatné / za nízkou cenu** (viz [Rešerše, bod 4](../reserse-nzu-2026.html)).
 
-> **Hodnocení:** oficiální zdroj hvězdičkové hodnocení **neobsahuje** a spolehlivě
-> se mi ho nepodařilo dohledat (nevymýšlím ho). Ověř si ho u konkrétních kandidátů
-> přes **web firmy** (sloupec *Web*), **Google Maps** nebo **Firmy.cz**.
+> **Hodnocení:** oficiální zdroj hvězdičkové hodnocení **neobsahuje**. Reálná
+> hodnocení jsem dohledal přes Google Maps jen u části kandidátů (níže); u ostatních
+> ověř přes **web firmy** (sloupec *Web*), **Google Maps** nebo **Firmy.cz**.
+
+## Ověřená hodnocení (Google Maps, 1. 6. 2026)
+
+- **AltenergyCZ s.r.o. — Ing. arch. Martin Šimůnek** (č. 20, Kladno, C. Boudy 1444):
+  **★ 4,9 / 62 recenzí** — recenze zmiňují i posudky pro NZÚ.
+  **Nejlépe hodnocený místní kandidát s renovačním pasem.**
+- Bez vlastního profilu na Maps (→ nenalezeno): Centrum udržitelné energie / Cenerg
+  (Jůna), ECOTEN (Tencar), Marie Rodová, Anna Gamanová.
+
+> Tip mimo seznam: v Kladně je vysoce hodnocený **chciPRŮKAZ – PENB** (★ 5,0 / 45) —
+> ověř, zda dělá i renovační pas / kompletní NZÚ.
 
 | # | Jméno | Subjekt | Renov. pas | Telefon | E-mail | Web | Působnost |
 |---|-------|---------|:----------:|---------|--------|-----|-----------|
