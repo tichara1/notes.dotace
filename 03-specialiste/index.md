@@ -12,3 +12,4 @@ Energetický (dotační) specialista a stav oslovených kontaktů.
 - [Oslovené kontakty](oslovene-kontakty.html)
 - [Poradci NZÚ 2026 — renovační pas](poradci-renovacni-pas.html) — z oficiálního vyhledávače NZÚ, dle vzdálenosti
 - [Specialisté PENB (okres Kladno)](specialiste-kladno.html) — ověření držitelé z rejstříku MPO
+- [Šablona poptávky (e-mail)](sablona-poptavky.html) — hotový mail k odeslání

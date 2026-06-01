@@ -49,6 +49,8 @@ ověřeno přes Google Maps **1. 6. 2026**:
 Detail a další kandidáti → [Poradci NZÚ 2026 — renovační pas](03-specialiste/poradci-renovacni-pas.html).
 Alternativa s vysokým hodnocením: **chciPRŮKAZ – PENB** ★ 5,0 (45) — ověřit, zda dělá i renovační pas.
 
+📧 Hotový mail k odeslání → [Šablona poptávky](03-specialiste/sablona-poptavky.html).
+
 ## Kde co najít
 
 | Sekce | K čemu |
