@@ -35,6 +35,20 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
 
 > ⚠️ **Velké platby a realizaci** navázat až na schválení žádosti (po 25. 6.) a úvěr (od září 2026).
 
+## ☎️ Koho kontaktovat — TOP 3 dle hodnocení
+
+Nejlépe hodnocení poradci pro NZÚ (renovační pas, ideálně + projekt + dozor),
+ověřeno přes Google Maps **1. 6. 2026**:
+
+| # | Kdo | Hodnocení | Co dělá | Telefon |
+|---|-----|-----------|---------|---------|
+| 1 | **Consultora s.r.o.** (Jan Vitouš) | ★ 5,0 (258) | renovační pas + celý NZÚ proces | 720 348 522 |
+| 2 | **AltenergyCZ — Ing. arch. M. Šimůnek** (Kladno ~10 km) | ★ 4,9 (62) | renovační pas + projekt (architekt) | 775 320 337 |
+| 3 | **OFSTONE s.r.o.** (Tomáš Tíkal) | ★ 5,0 (7) | renovační pas + projekt (architekti) | 775 155 331 |
+
+Detail a další kandidáti → [Poradci NZÚ 2026 — renovační pas](03-specialiste/poradci-renovacni-pas.html).
+Alternativa s vysokým hodnocením: **chciPRŮKAZ – PENB** ★ 5,0 (45) — ověřit, zda dělá i renovační pas.
+
 ## Kde co najít
 
 | Sekce | K čemu |

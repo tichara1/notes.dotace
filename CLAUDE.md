@@ -66,4 +66,8 @@ nav_order: 1
 - **Refresh all pages:** at the end of a task, do a quick review pass over **all**
   pages — check front matter, `.html` links, nav ordering, and cross-links, and fix
   anything that the task's changes left inconsistent.
+- **Front-page next action:** whenever a task produces a concrete next step or
+  decision (who to contact, what to do next), reflect it on the **front page**
+  (`index.md`) — update the status tracker / „Co je teď potřeba" checklist (or the
+  „Koho kontaktovat" block) so the user always sees the concrete action there.
 - **Commit & push:** at the end of every task, **commit and push** the changes.
