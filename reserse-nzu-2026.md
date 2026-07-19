@@ -297,7 +297,7 @@ Samostatná „Dešťovka" je **integrována do NZÚ 2026** (oblast D.2). Na ste
 | Wallbox | 30 000–40 000 | způsobilý výdaj oblasti C* | dle nákladů | **nemáte nárok** |
 | Retenční nádrž z jímky (D.2) | 50 000–150 000 | **100 000** (dešťovka+WC) | dle nákladů | **nemáte nárok** |
 
-\* Wallbox nemá v pokynech RD vlastní jednotkovou sazbu ani samostatný strop — je veden jako způsobilý výdaj oblasti C (typicky navázaný na FVE). Jak přesně vstupuje do výpočtu max. úvěru, **není v dokumentu jednoznačné → ověřit**.
+\* Wallbox nemá v pokynech RD vlastní jednotkovou sazbu ani samostatný strop. **Ověřeno u SFŽP (19. 7. 2026, [oficiální web](https://novazelenausporam.cz/bezurocny-uver-rodinne-domy/)):** je veden jako podporovaný prvek **v rámci fotovoltaiky (C.3)**, ne jako samostatné opatření → započítává se do stropu FVE (max. 400 000 Kč), **nezvyšuje** ho. Vejde se do úvěru jen tam, kde má strop FVE rezervu nad cenou FVE+baterie.
 
 ---
 
@@ -480,7 +480,7 @@ Pomocným skriptem `tools/mpo-enex-kladno.py` byl **31. 5. 2026** stažen z rejs
 
 **Podpora wallboxu:**
 - **NZÚ:** dobíjecí stanice (wallbox) je **způsobilý výdaj oblasti C** (Závazné pokyny RD, kap. 7.3 b) — vč. přívodu el. energie, napojení do rozvaděče. **Nelze:** zřízení parkovacího místa, navýšení jističe. Pro vás (větev úvěr) je tedy wallbox financovatelný **úvěrem**; **přímou dotaci nemáte**.
-- Samostatná jednotková sazba/strop pro wallbox v pokynech RD **není uvedena** → jak vstupuje do výpočtu úvěru, **ověřte** (pravděpodobně v rámci oblasti C / FVE).
+- **Ověřeno u SFŽP (19. 7. 2026, [oficiální web programu](https://novazelenausporam.cz/bezurocny-uver-rodinne-domy/) + [FAQ](https://novazelenausporam.cz/caste-dotazy/bezurocny-uver/)):** wallbox **nemá vlastní sazbu ani samostatný strop**. Je veden jako podporovaný prvek **v rámci fotovoltaiky (C.3)** → započítává se do stropu FVE **400 000 Kč**, **nezvyšuje** ho. Prakticky pro vás: FVE 8 kWp + 10 kWh dává strop **350 000 Kč**; je-li skutečná cena FVE+baterie blízko této částky, na wallbox už v rámci úvěru C.3 **nezbude rezerva** a doplatíte ho z vlastního. „Fixních 30 000 Kč" z komerčních webů je ze **staré dotační** verze NZÚ, ne z úvěru.
 
 **Dotace na samotný elektromobil:** Přes NZÚ se **auto nedotuje**. Programy na nákup EV pro **fyzické osoby** v roce 2026 prakticky **neexistují** (dotace cílí na firmy/podnikatele přes jiné tituly). → **Na samotné auto dotaci nečekejte**; ověřte aktuální stav, ale s vysokou pravděpodobností nic pro domácnost.
 
@@ -519,7 +519,7 @@ Pomocným skriptem `tools/mpo-enex-kladno.py` byl **31. 5. 2026** stažen z rejs
 2. **Vyberte energetického specialistu** z rejstříku [MPO-ENEX, okres Kladno](https://www.mpo-enex.cz/experti/ExpertList.aspx) — najděte 5 kandidátů, prověřte hodnocení na Google Maps / Firmy.cz, poptejte balíček **PENB + projekt + technický dozor** pro komplexní renovaci.
 3. **Začněte přípravu** (projekt, PENB, renovační pas) **hned** — to o nárok nepřipraví. **Velké platby a realizaci** ale navažte na **schválení žádosti (po 25. 6. 2026)** a **úvěr od banky (od září 2026)**.
 4. **Stáhněte a projděte** primární dokument [Závazné pokyny RD (verze 1.1, 24. 6. 2026)](https://novazelenausporam.cz/dokumenty/) — zejména kap. 2.3 (úvěr), 3 (sazby) a 7 (způsobilé výdaje); a počkejte na **seznam zapojených bank** (září 2026).
-5. **U nejistých bodů si vyžádejte písemné stanovisko SFŽP / poradce:** (a) bonusy v úvěrové větvi pro RD, (b) způsob započtení wallboxu do úvěru, (c) podmínky D.2 pro využití jímky (užitková voda vs. jen zálivka), (d) možnost zahrnout existující hypotéku.
+5. **U nejistých bodů si vyžádejte písemné stanovisko SFŽP / poradce:** (a) bonusy v úvěrové větvi pro RD, ~~(b) způsob započtení wallboxu do úvěru~~ **ověřeno — wallbox se počítá v rámci stropu FVE, viz bod 12**, (c) podmínky D.2 pro využití jímky (užitková voda vs. jen zálivka), (d) možnost zahrnout existující hypotéku.
 
 ---
 
@@ -535,4 +535,4 @@ Pomocným skriptem `tools/mpo-enex-kladno.py` byl **31. 5. 2026** stažen z rejs
 **Komerční (jen orientační ceny — výslovně označeno v textu):**
 - Zateplení a okna: [kolikmaterialu.cz](https://kolikmaterialu.cz/kolik-stoji-zatepleni-domu/) · FVE: [solarkalkulacka.cz](https://solarkalkulacka.cz/blog/fotovoltaika-na-klic-cena-2026), [sefy.cz](https://sefy.cz/cena/) · Wallbox: [wattbox.cz](https://wattbox.cz/blog/kolik-stoji-wallbox-s-instalaci) · Úspory plynu: [hypoindex.cz](https://www.hypoindex.cz/clanky/kolik-zaplati-v-pristim-roce-majitele-nezateplenych-ci-malo-zateplenych-domu/), [schlieger.cz](https://schlieger.cz/blog/srovnani-nakladu-na-vytapeni/)
 
-> **Kde podmínka nebyla k 31. 5. 2026 zveřejněna / je nejistá:** seznam zapojených bank; uplatnění bonusů v úvěrové větvi pro RD; přesné započtení wallboxu do úvěru; možnost překlopit hypotéku. Tyto body jsou v textu označeny a doporučeno je ověřit u SFŽP.
+> **Kde podmínka nebyla k 31. 5. 2026 zveřejněna / je nejistá:** seznam zapojených bank; uplatnění bonusů v úvěrové větvi pro RD; možnost překlopit hypotéku. Tyto body jsou v textu označeny a doporučeno je ověřit u SFŽP. **Vyřešeno (19. 7. 2026):** započtení wallboxu do úvěru — je v rámci stropu FVE (viz bod 12).

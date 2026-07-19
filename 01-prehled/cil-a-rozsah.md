@@ -44,4 +44,6 @@ Dům: RD, kolaudace **2009**, Porotherm **bez zateplení**, obec u Dřetovic (ok
 ## Otevřené otázky
 - [ ] Potvrdit využitelnou plochu střechy pro FVE (~40 m²)
 - [ ] Nárok na garážové otvory (mimo vytápěnou obálku) — ověřit s projektantem
-- [ ] Jak wallbox vstupuje do výpočtu max. úvěru
+- [x] ~~Jak wallbox vstupuje do výpočtu max. úvěru~~ — **ověřeno u SFŽP:** je způsobilý
+      výdaj v rámci stropu FVE (400 tis.), **bez vlastní sazby**; nezvyšuje strop
+      (viz [Závazné pokyny — souhrn](../02-dotace/zavazne-pokyny-uver.html))

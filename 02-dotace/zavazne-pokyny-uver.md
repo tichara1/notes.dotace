@@ -94,7 +94,12 @@ Jednotkové částky = **maximální výše úvěru** na jednotku (nikdy ne víc
 - Oblast C jen ve stavbách **kolaudovaných před 1. 1. 2023** (3.2 a) — náš dům ✔.
 - **Dobíjecí stanice (wallbox)** je **způsobilý výdaj** oblasti C vč. přívodu a
   napojení do rozvaděče; **nelze** zřízení parkovacího místa ani navýšení jističe
-  (7.3 b). Samostatná sazba/strop pro wallbox v pokynech není → **ověřit** započtení.
+  (7.3 b). **Ověřeno u SFŽP (19. 7. 2026, [oficiální web programu](https://novazelenausporam.cz/bezurocny-uver-rodinne-domy/)):**
+  wallbox **nemá vlastní sazbu ani samostatný strop** — je veden jako podporovaný
+  prvek **v rámci fotovoltaiky (C.3)**, ne jako samostatné opatření. Strop C.3
+  zůstává daný vzorcem FVE (25 000 × kWp + 15 000 × kWh, **max. 400 000 Kč**);
+  náklady na wallbox se do úvěru vejdou **jen v rámci tohoto stropu**, nezvyšují ho.
+  „Fixních 30 000 Kč" z komerčních webů patří do **staré dotační** verze NZÚ, ne do úvěru.
 
 > Netýká se nás: C.1 výměna zdroje tepla, C.2 ohřev vody, C.4 řízené větrání,
 > C.5 teplo z odpadní vody. **Plynový kotel** u komplexní renovace **zůstat může**
