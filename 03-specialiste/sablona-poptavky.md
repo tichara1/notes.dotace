@@ -57,6 +57,6 @@ S pozdravem
 [adresa]
 ```
 
-Komu poslat → [TOP 3 kontakty na úvodu](../index.html) nebo
+Komu poslat → [TOP 10 kontaktů na úvodu](../index.html) nebo
 [Poradci NZÚ 2026 — renovační pas](poradci-renovacni-pas.html).
 Stav oslovení zapisuj do [Oslovené kontakty](oslovene-kontakty.html).

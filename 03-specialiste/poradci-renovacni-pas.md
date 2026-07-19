@@ -32,6 +32,35 @@ přes tuto síť bývá **bezplatné / za nízkou cenu** (viz [Rešerše, bod 4]
 > Tip mimo seznam: v Kladně je vysoce hodnocený **chciPRŮKAZ – PENB** (★ 5,0 / 45) —
 > ověř, zda dělá i renovační pas / kompletní NZÚ.
 
+## Doporučené pořadí — TOP 10 (poměr cena / hodnocení / vzdálenost)
+
+Žebříček z reálných dat. **Nutná podmínka:** ✓ renovační pas (č. 19 Chalupa bez pasu →
+mimo). **Cena** (nízká váha): pas přes síť SFŽP bývá bezplatný/nízký u všech ✓ →
+nerozlišuje (projekt + dozor poptat individuálně). **Hodnocení** (vysoká váha):
+ověřené Google hvězdy + počet recenzí; _neověřeno_ = zbývá doplnit (odkazy *Ověření
+hodnocení* níže / Google Maps / Firmy.cz). **Vzdálenost** (střední váha): pořadí
+z oficiálního vyhledávače SFŽP (řazen dle vzdálenosti od Dřetovic), u kandidátů
+z PENB rejstříku upřesněno reálnými km.
+
+| Pořadí | Kdo (č. v tabulce) | Hodnocení | Vzdálenost |
+|:---:|---|---|---|
+| 1 | AltenergyCZ – Ing. arch. Šimůnek (20) | ★ 4,9 (62) ✅ | Kladno ~10 km |
+| 2 | Consultora s.r.o. – Vitouš (2) | ★ 5,0 (258) ✅ | Kladno (působnost) |
+| 3 | OFSTONE s.r.o. – Tíkal (8) | ★ 5,0 (7) ✅ | Praha / Kladno |
+| 4 | Centrum udržitelné energie – Jůna (1) | _neověřeno_ | nejbližší dle SFŽP (poř. 1) |
+| 5 | Ing. Marie Rodová (3) | _neověřeno_ | Kladno ~10 km |
+| 6 | ECOTEN s.r.o. – Tencar (4) | _neověřeno_ | Praha / Kladno (poř. 4) |
+| 7 | Anna Gamanová (5) | _neověřeno_ | Kladno ~10 km |
+| 8 | Ing. Kateřina Ullmannová (6) | _neověřeno_ | poř. 6 dle SFŽP |
+| 9 | Ing. Anna Recinová (7) | _neověřeno_ | poř. 7 dle SFŽP |
+| 10 | Ing. Pavel Korima (9) | _neověřeno_ | poř. 9 dle SFŽP |
+
+> **Proč právě takhle:** první tři mají **ověřené** silné hodnocení — AltenergyCZ je navíc
+> prokazatelně místní (~10 km) a dělá i projekt (architekt), Consultora má nejsilnější
+> referenci (258 recenzí), OFSTONE ★ 5,0 při menším počtu recenzí. Pozice #4–#10 jsou
+> nejbližší poradci s ✓ pasem, jejichž hodnocení zatím **není ověřené** — po doplnění
+> hvězd se jejich vzájemné pořadí může změnit.
+
 | # | Jméno | Subjekt | Renov. pas | Telefon | E-mail | Web | Působnost |
 |---|-------|---------|:----------:|---------|--------|-----|-----------|
 | 1 | Ladislav Jůna | Centrum udržitelné energie z.s. | ✓ | 605 451 981 | ladislav.juna@cenerg.cz | [cenerg.cz](https://www.cenerg.cz) | Beroun, Kladno, Praha, Praha-východ, Praha-západ |
@@ -62,6 +91,6 @@ přes tuto síť bývá **bezplatné / za nízkou cenu** (viz [Rešerše, bod 4]
 
 ## Koho oslovit jako první
 
-Vyber ~5 nejbližších s ✓, ověř hodnocení (Google / Firmy.cz) a poptej balíček
-**renovační pas / PENB + projekt + technický dozor** pro komplexní renovaci.
+Oslov **TOP 10** výše (u #4–#10 při tom ověř hodnocení přes Google / Firmy.cz) a poptej
+balíček **renovační pas / PENB + projekt + technický dozor** pro komplexní renovaci.
 Stav oslovení zapisuj do [Oslovené kontakty](oslovene-kontakty.html).
