@@ -42,18 +42,18 @@ hodnocení* níže / Google Maps / Firmy.cz). **Vzdálenost** (střední váha):
 z oficiálního vyhledávače SFŽP (řazen dle vzdálenosti od Dřetovic), u kandidátů
 z PENB rejstříku upřesněno reálnými km.
 
-| Pořadí | Kdo (č. v tabulce) | Hodnocení | Vzdálenost |
-|:---:|---|---|---|
-| 1 | AltenergyCZ – Ing. arch. Šimůnek (20) | ★ 4,9 (62) ✅ | Kladno ~10 km |
-| 2 | Consultora s.r.o. – Vitouš (2) | ★ 5,0 (258) ✅ | Kladno (působnost) |
-| 3 | OFSTONE s.r.o. – Tíkal (8) | ★ 5,0 (7) ✅ | Praha / Kladno |
-| 4 | Centrum udržitelné energie – Jůna (1) | _neověřeno_ | nejbližší dle SFŽP (poř. 1) |
-| 5 | Ing. Marie Rodová (3) | _neověřeno_ | Kladno ~10 km |
-| 6 | ECOTEN s.r.o. – Tencar (4) | _neověřeno_ | Praha / Kladno (poř. 4) |
-| 7 | Anna Gamanová (5) | _neověřeno_ | Kladno ~10 km |
-| 8 | Ing. Kateřina Ullmannová (6) | _neověřeno_ | poř. 6 dle SFŽP |
-| 9 | Ing. Anna Recinová (7) | _neověřeno_ | poř. 7 dle SFŽP |
-| 10 | Ing. Pavel Korima (9) | _neověřeno_ | poř. 9 dle SFŽP |
+| Pořadí | Kdo (č. v tabulce) | Hodnocení | Recenze | Vzdálenost |
+|:---:|---|---|---|---|
+| 1 | AltenergyCZ – Ing. arch. Šimůnek (20) | ★ 4,9 (62) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=AltenergyCZ%20Kladno%20C.%20Boudy%201444) | Kladno ~10 km |
+| 2 | Consultora s.r.o. – Vitouš (2) | ★ 5,0 (258) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=Consultora%20s.r.o.%20energetick%C3%BD%20specialista) | Kladno (působnost) |
+| 3 | OFSTONE s.r.o. – Tíkal (8) | ★ 5,0 (7) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=OFSTONE%20s.r.o.%20PENB%20pr%C5%AFkazy) | Praha / Kladno |
+| 4 | Centrum udržitelné energie – Jůna (1) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Centrum%20udr%C5%BEiteln%C3%A9%20energie%20Cenerg%20J%C5%AFna) | nejbližší dle SFŽP (poř. 1) |
+| 5 | Ing. Marie Rodová (3) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Marie%20Rodov%C3%A1%20energetick%C3%BD%20specialista%20Kladno) | Kladno ~10 km |
+| 6 | ECOTEN s.r.o. – Tencar (4) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=ECOTEN%20s.r.o.%20Ji%C5%99%C3%AD%20Tencar) | Praha / Kladno (poř. 4) |
+| 7 | Anna Gamanová (5) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Anna%20Gamanov%C3%A1%20annarchitects%20Kladno) | Kladno ~10 km |
+| 8 | Ing. Kateřina Ullmannová (6) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Kate%C5%99ina%20Ullmannov%C3%A1%20energetick%C3%BD%20specialista) | poř. 6 dle SFŽP |
+| 9 | Ing. Anna Recinová (7) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Anna%20Recinov%C3%A1%20EKIS) | poř. 7 dle SFŽP |
+| 10 | Ing. Pavel Korima (9) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Pavel%20Korima%20dozordapozor) | poř. 9 dle SFŽP |
 
 > **Proč právě takhle:** první tři mají **ověřené** silné hodnocení — AltenergyCZ je navíc
 > prokazatelně místní (~10 km) a dělá i projekt (architekt), Consultora má nejsilnější
