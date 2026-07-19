@@ -33,6 +33,8 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
       hodnocení** →
       [Poradci NZÚ 2026 (renovační pas)](03-specialiste/poradci-renovacni-pas.html),
       [stav oslovení](03-specialiste/oslovene-kontakty.html)
+    - ✉️ **19. 7. 2026: osloveni první 3** (Šimůnek, Vitouš, Tíkal) — čeká se na odpovědi;
+      další v pořadí oslovit, pokud se neozvou
 - [x] ~~Ověřit příjmový decil~~ — spadáme **nad 4. decil → splatnost 15 let**
       (viz [Rešerše](reserse-nzu-2026.html))
 - [ ] Připravit podklady k žádosti → [Podklady — checklist](02-dotace/podklady-checklist.html)
@@ -47,9 +49,9 @@ kombinace **hodnocení + vzdálenost + cena**. Metodika je pod tabulkou.
 
 | # | Kdo | Hodnocení | Recenze | Vzdálenost od Dřetovic | Telefon | E-mail | Web |
 |---|-----|-----------|---------|------------------------|---------|--------|-----|
-| 1 | **AltenergyCZ — Ing. arch. M. Šimůnek** | ★ 4,9 (62) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=AltenergyCZ%20Kladno%20C.%20Boudy%201444) | Kladno ~10 km | 775 320 337 | simunek.martin@email.cz | [altenergy.cz](https://altenergy.cz/) |
-| 2 | **Consultora s.r.o.** (Jan Vitouš) | ★ 5,0 (258) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=Consultora%20s.r.o.%20energetick%C3%BD%20specialista) | Kladno (působnost) | 720 348 522 | vitousja@gmail.com | [consultora.cz](https://www.consultora.cz) |
-| 3 | **OFSTONE s.r.o.** (Tomáš Tíkal) | ★ 5,0 (7) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=OFSTONE%20s.r.o.%20PENB%20pr%C5%AFkazy) | Praha / Kladno (působnost) | 775 155 331 | tikal@penb-prukazy.cz | [ofstone.cz](https://www.ofstone.cz) |
+| 1 | **AltenergyCZ — Ing. arch. M. Šimůnek** ✉️ | ★ 4,9 (62) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=AltenergyCZ%20Kladno%20C.%20Boudy%201444) | Kladno ~10 km | 775 320 337 | simunek.martin@email.cz | [altenergy.cz](https://altenergy.cz/) |
+| 2 | **Consultora s.r.o.** (Jan Vitouš) ✉️ | ★ 5,0 (258) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=Consultora%20s.r.o.%20energetick%C3%BD%20specialista) | Kladno (působnost) | 720 348 522 | vitousja@gmail.com | [consultora.cz](https://www.consultora.cz) |
+| 3 | **OFSTONE s.r.o.** (Tomáš Tíkal) ✉️ | ★ 5,0 (7) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=OFSTONE%20s.r.o.%20PENB%20pr%C5%AFkazy) | Praha / Kladno (působnost) | 775 155 331 | tikal@penb-prukazy.cz | [ofstone.cz](https://www.ofstone.cz) |
 | 4 | **Centrum udržitelné energie z.s.** (L. Jůna) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Centrum%20udr%C5%BEiteln%C3%A9%20energie%20Cenerg%20J%C5%AFna) | nejbližší dle SFŽP (poř. 1) | 605 451 981 | ladislav.juna@cenerg.cz | [cenerg.cz](https://www.cenerg.cz) |
 | 5 | **Ing. Marie Rodová** | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Marie%20Rodov%C3%A1%20energetick%C3%BD%20specialista%20Kladno) | Kladno ~10 km | 725 929 349 | marie.rodova@email.cz | [web](https://ingrodovamarie-887317.webnode.cz) |
 | 6 | **ECOTEN s.r.o.** (Jiří Tencar) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=ECOTEN%20s.r.o.%20Ji%C5%99%C3%AD%20Tencar) | Praha / Kladno (poř. 4) | 736 630 021 | tencar@ecoten.cz | [ecoten.cz](https://www.ecoten.cz) |
@@ -57,6 +59,9 @@ kombinace **hodnocení + vzdálenost + cena**. Metodika je pod tabulkou.
 | 8 | **Ing. Kateřina Ullmannová** | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Kate%C5%99ina%20Ullmannov%C3%A1%20energetick%C3%BD%20specialista) | poř. 6 dle SFŽP | 776 220 797 | energeticky.specialista@centrum.cz | [penb1.webnode.cz](https://penb1.webnode.cz/) |
 | 9 | **Ing. Anna Recinová** | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Anna%20Recinov%C3%A1%20EKIS) | poř. 7 dle SFŽP | 702 198 091 | dotace.ekis@gmail.com | [EKIS](https://efekt.gov.cz/cz/ekis/strediska-EKIS) |
 | 10 | **Ing. Pavel Korima** | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Pavel%20Korima%20dozordapozor) | poř. 9 dle SFŽP | 603 563 006 | korima@volny.cz | [dozordapozor.cz](https://dozordapozor.cz) |
+
+✉️ = **osloveno 19. 7. 2026** (první 3). Stav odpovědí →
+[Oslovené kontakty](03-specialiste/oslovene-kontakty.html).
 
 **Jak je řadím:** nutná podmínka je ✓ **renovační pas**. **Cena** (nízká váha):
 renovační pas přes síť SFŽP bývá bezplatný/nízký u všech ✓ → nerozlišuje (projekt +

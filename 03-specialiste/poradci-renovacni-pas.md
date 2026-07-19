@@ -44,9 +44,9 @@ z PENB rejstříku upřesněno reálnými km.
 
 | Pořadí | Kdo (č. v tabulce) | Hodnocení | Recenze | Vzdálenost |
 |:---:|---|---|---|---|
-| 1 | AltenergyCZ – Ing. arch. Šimůnek (20) | ★ 4,9 (62) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=AltenergyCZ%20Kladno%20C.%20Boudy%201444) | Kladno ~10 km |
-| 2 | Consultora s.r.o. – Vitouš (2) | ★ 5,0 (258) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=Consultora%20s.r.o.%20energetick%C3%BD%20specialista) | Kladno (působnost) |
-| 3 | OFSTONE s.r.o. – Tíkal (8) | ★ 5,0 (7) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=OFSTONE%20s.r.o.%20PENB%20pr%C5%AFkazy) | Praha / Kladno |
+| 1 | AltenergyCZ – Ing. arch. Šimůnek (20) ✉️ **osloveno 19. 7.** | ★ 4,9 (62) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=AltenergyCZ%20Kladno%20C.%20Boudy%201444) | Kladno ~10 km |
+| 2 | Consultora s.r.o. – Vitouš (2) ✉️ **osloveno 19. 7.** | ★ 5,0 (258) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=Consultora%20s.r.o.%20energetick%C3%BD%20specialista) | Kladno (působnost) |
+| 3 | OFSTONE s.r.o. – Tíkal (8) ✉️ **osloveno 19. 7.** | ★ 5,0 (7) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=OFSTONE%20s.r.o.%20PENB%20pr%C5%AFkazy) | Praha / Kladno |
 | 4 | Centrum udržitelné energie – Jůna (1) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Centrum%20udr%C5%BEiteln%C3%A9%20energie%20Cenerg%20J%C5%AFna) | nejbližší dle SFŽP (poř. 1) |
 | 5 | Ing. Marie Rodová (3) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Marie%20Rodov%C3%A1%20energetick%C3%BD%20specialista%20Kladno) | Kladno ~10 km |
 | 6 | ECOTEN s.r.o. – Tencar (4) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=ECOTEN%20s.r.o.%20Ji%C5%99%C3%AD%20Tencar) | Praha / Kladno (poř. 4) |
@@ -94,3 +94,6 @@ z PENB rejstříku upřesněno reálnými km.
 Oslov **TOP 10** výše (u #4–#10 při tom ověř hodnocení přes Google / Firmy.cz) a poptej
 balíček **renovační pas / PENB + projekt + technický dozor** pro komplexní renovaci.
 Stav oslovení zapisuj do [Oslovené kontakty](oslovene-kontakty.html).
+
+> ✉️ **Stav 19. 7. 2026:** osloveni první 3 (Šimůnek / AltenergyCZ, Vitouš / Consultora,
+> Tíkal / OFSTONE). Čeká se na odpovědi; další v pořadí oslovit, pokud se neozvou.
