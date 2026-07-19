@@ -15,7 +15,7 @@ specialistu. Doplň osobní údaje v hranatých závorkách a pošli.
 ## Předmět
 
 ```
-Poptávka – renovační pas / PENB + projekt + dozor pro NZÚ 2026 (komplexní renovace RD)
+Poptávka – podklady pro NZÚ 2026 (komplexní renovace rodinného domu)
 ```
 
 ## Tělo
@@ -23,35 +23,35 @@ Poptávka – renovační pas / PENB + projekt + dozor pro NZÚ 2026 (komplexní
 ```
 Dobrý den,
 
-obracím se na Vás s poptávkou na zajištění podkladů pro dotaci Nová zelená
-úsporám 2026+ (větev bezúročný úvěr) na komplexní renovaci našeho rodinného domu.
+chystáme se na komplexní renovaci našeho rodinného domu a rádi bychom ji
+financovali přes Novou zelenou úsporám 2026+ (větev bezúročný úvěr). Sháníme
+někoho, kdo by nám k tomu připravil potřebné podklady, a tak se ozývám i Vám.
 
-Dům: RD, kolaudace 2009, zděný (Porotherm) bez zateplení, Dřetovice (okr. Kladno).
+Ve zkratce o domě: rodinný dům z roku 2009 (kolaudace), zděný z Porothermu,
+zatím nezateplený, v Dřetovicích na Kladensku.
 
-Plánovaný rozsah opatření:
-- zateplení fasády cca 250 m²
-- střecha: již zateplená (minerální vata) – pravděpodobně jen oprava izolace
-  (po kunách) kvůli splnění obálky pro komplexní renovaci
-- výměna oken a dveří cca 56,8 m² (19 oken + 4 dveře) – volitelné
-- fotovoltaika cca 8 kWp + baterie cca 10 kWh
-- wallbox (dobíjení elektromobilu)
-- retenční nádrž – přestavba stávající jímky (oblast D.2, hospodaření s vodou)
+Zatím to vidíme zhruba takhle:
+- zateplení fasády, cca 250 m²
+- střecha už zateplená (minerální vata) – nejspíš jen oprava izolace po kunách,
+  abychom se vešli do obálky pro komplexní renovaci
+- výměna oken a dveří (19 oken + 4 dveře, dohromady cca 57 m²) – tady ještě váháme
+- fotovoltaika cca 8 kWp s baterií kolem 10 kWh
+- wallbox na dobíjení auta
+- retenční nádrž z původní jímky (hospodaření s vodou)
 
-Rád bych u Vás poptal:
-1) renovační pas / PENB,
-2) projektovou dokumentaci + energetické hodnocení pro komplexní renovaci,
-3) odborný technický dozor (u komplexní renovace povinný),
-4) pomoc s podáním žádosti v systému AIS SFŽP.
+Od Vás bych potřeboval hlavně renovační pas / PENB, projekt s energetickým
+hodnocením pro komplexní renovaci a technický dozor (chápu, že u komplexní
+renovace je povinný). A ocenil bych, kdybyste nám pomohli i se samotnou žádostí
+v systému AIS SFŽP.
 
-Prosím Vás o:
-- orientační cenovou nabídku (ideálně jako balíček bodů 1–4),
-- termín, do kdy jste schopni podklady zpracovat,
-- zda máte se zpracováním žádostí pro NZÚ 2026 zkušenost a volnou kapacitu,
-- informaci, co budete potřebovat od nás (dokumentace domu, prohlídka na místě apod.).
+Kdybyste mi mohli napsat orientační cenu (klidně jako balíček za všechno
+dohromady), zhruba do kdy byste to stihli zpracovat a co byste ode mě
+potřebovali na začátku, moc by mi to pomohlo. A jestli s NZÚ 2026 už máte
+zkušenost a volnou kapacitu.
 
-Děkuji a budu se těšit na odpověď.
+Předem díky, budu se těšit na odpověď.
 
-S pozdravem,
+S pozdravem
 [Jméno a příjmení]
 [telefon]
 [adresa]
