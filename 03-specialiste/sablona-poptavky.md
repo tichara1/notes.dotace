@@ -37,7 +37,8 @@ Zatím to vidíme zhruba takhle:
 - výměna oken a dveří (19 oken + 4 dveře, dohromady cca 57 m²) – tady ještě váháme
 - fotovoltaika cca 8 kWp s baterií kolem 10 kWh
 - wallbox na dobíjení auta
-- retenční nádrž z původní jímky (hospodaření s vodou)
+- retenční nádrž z původní jímky (hospodaření s vodou) – čistě na zálivku zahrady,
+  ne do domu
 
 Od Vás bych potřeboval hlavně renovační pas / PENB, projekt s energetickým
 hodnocením pro komplexní renovaci a technický dozor (chápu, že u komplexní
