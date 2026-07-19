@@ -32,7 +32,7 @@ zatím nezateplený, v Dřetovicích na Kladensku.
 
 Zatím to vidíme zhruba takhle:
 - zateplení fasády, cca 250 m²
-- střecha už zateplená (minerální vata) – nejspíš jen oprava izolace po kunách,
+- střecha už zateplená (minerální vata) – na pár místech je izolace poškozená od kun, nejspíš jen oprava,
   abychom se vešli do obálky pro komplexní renovaci
 - výměna oken a dveří (19 oken + 4 dveře, dohromady cca 57 m²) – tady ještě váháme
 - fotovoltaika cca 8 kWp s baterií kolem 10 kWh
