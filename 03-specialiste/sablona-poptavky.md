@@ -24,8 +24,9 @@ Poptávka – podklady pro NZÚ 2026 (komplexní renovace rodinného domu)
 Dobrý den,
 
 chystáme se na komplexní renovaci našeho rodinného domu a rádi bychom ji
-financovali přes Novou zelenou úsporám 2026+ (větev bezúročný úvěr). Sháníme
-někoho, kdo by nám k tomu připravil potřebné podklady, a tak se ozývám i Vám.
+financovali přes Novou zelenou úsporám 2026+ (větev bezúročný úvěr). Hledáme
+někoho, kdo by nám k tomu připravil potřebné podklady, a rád bych se zeptal, zda
+byste to byli Vy.
 
 Ve zkratce o domě: rodinný dům z roku 2009 (kolaudace), zděný z Porothermu,
 zatím nezateplený, v Dřetovicích na Kladensku.
