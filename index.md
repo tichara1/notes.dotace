@@ -19,6 +19,10 @@ Rozcestník k plánování rekonstrukce rodinného domu s dotací **Nová zelen�
 
 Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
 
+> ✅ Podmínky ověřeny **19. 7. 2026** proti závazné **verzi 1.1 pokynů (platné od 24. 6. 2026)** —
+> naše čísla (limity úvěru, splatnosti, sazby) **sedí**. Souhrn →
+> [Závazné pokyny (úvěr)](02-dotace/zavazne-pokyny-uver.html).
+
 ## ✅ Co je teď potřeba (další kroky)
 
 > _Odškrtávej `- [x]`, jak postupuješ. Detail u jednotlivých kroků na odkazovaných stránkách._
@@ -57,6 +61,7 @@ Alternativa s vysokým hodnocením: **chciPRŮKAZ – PENB** ★ 5,0 (45) — ov
 |-------|--------|
 | [Přehled](01-prehled/cil-a-rozsah.html) | Co rekonstruujeme, priority, harmonogram |
 | [Dotace](02-dotace/nzu-2026-prehled.html) | Na co dosáhneme, podklady, financování |
+| [Závazné pokyny (úvěr)](02-dotace/zavazne-pokyny-uver.html) | Souhrn oficiálního dokumentu — limity, sazby, lhůty |
 | [Měsíční platby](02-dotace/mesicni-naklady.html) | Kolik platím teď vs. energie + splátka po rekonstrukci |
 | [Specialisté](03-specialiste/energeticky-specialista.html) | Energetický specialista, kontakty |
 | [Realizace](04-realizace/firma-vs-subdodavatele.html) | Firma vs subdodavatelé, poptávky, nabídky |

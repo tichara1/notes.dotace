@@ -5,10 +5,10 @@ nav_order: 7
 
 # Rešerše: Nová zelená úsporám 2026+ a NZÚ Light 2026 pro konkrétní dům
 
-> **Datum zpracování:** 31. 5. 2026
-> **Stav podmínek:** Závazné pokyny pro **bezúročný úvěr – rodinné domy** jsou platné **od 28. 5. 2026** (primární zdroj níže). Příjem žádostí startuje **25. 6. 2026**, banky nabízejí úvěr **od září 2026**.
+> **Datum zpracování:** 31. 5. 2026 · **Ověřeno proti aktuální verzi:** 19. 7. 2026
+> **Stav podmínek:** Závazně platí **verze 1.1 Závazných pokynů (RODINNÉ DOMY, úvěr), platná od 24. 6. 2026** (1. aktualizace; nahrazuje původní znění z 28. 5. 2026). Příjem žádostí startuje **25. 6. 2026**, banky nabízejí úvěr **od září 2026**. Všechna klíčová čísla níže (limity úvěru, splatnosti, sazby zateplení, FVE a vody D.2) byla proti verzi 1.1 **ověřena a sedí** — souhrn zdroje viz [Závazné pokyny (úvěr) — souhrn](02-dotace/zavazne-pokyny-uver.html).
 >
-> **Jak číst tento dokument:** Všechny ceny a propočty jsou **orientační odhad**. U sazeb a podmínek programu je uveden zdroj. **Primární zdroj** je dokument *Závazné pokyny pro žadatele a příjemce podpory v podprogramu NZÚ – RODINNÉ DOMY, platné od 28. 5. 2026* (dále „Závazné pokyny RD"). Komerční weby jsou označeny a slouží jen jako doplněk.
+> **Jak číst tento dokument:** Všechny ceny a propočty jsou **orientační odhad**. U sazeb a podmínek programu je uveden zdroj. **Primární zdroj** je dokument *Závazné pokyny pro žadatele a příjemce podpory v podprogramu NZÚ – RODINNÉ DOMY, verze 1.1, platná od 24. 6. 2026* (dále „Závazné pokyny RD"). Komerční weby jsou označeny a slouží jen jako doplněk.
 
 ## Klíčové sdělení hned na úvod
 
@@ -194,7 +194,7 @@ V roce 2026 existují fakticky **dvě živé větve** pro rodinné domy:
 
 ## 2) Bezúročný úvěr — konkrétní podmínky (z primárního zdroje)
 
-Vše níže je z **Závazných pokynů RD, platných 28. 5. 2026**, kap. 2.3 (PDF: [novazelenausporam.cz/.../NZÚ-RD26+.pdf](https://novazelenausporam.cz/dokumenty/)).
+Vše níže je z **Závazných pokynů RD, verze 1.1, platných 24. 6. 2026**, kap. 2.3 (PDF: [novazelenausporam.cz/dokumenty](https://novazelenausporam.cz/dokumenty/)).
 
 | Parametr | Hodnota |
 |---|---|
@@ -518,7 +518,7 @@ Pomocným skriptem `tools/mpo-enex-kladno.py` byl **31. 5. 2026** stažen z rejs
 1. **Ověřte si příjmový decil** oficiálním [výpočtovým nástrojem (xlsx)](https://novazelenausporam.cz/dokumenty/) — rozhodne, zda dosáhnete na splatnost 25 let (do 4. decilu), nebo „jen" 15 let. (Na samotný nárok na úvěr to nemá vliv.)
 2. **Vyberte energetického specialistu** z rejstříku [MPO-ENEX, okres Kladno](https://www.mpo-enex.cz/experti/ExpertList.aspx) — najděte 5 kandidátů, prověřte hodnocení na Google Maps / Firmy.cz, poptejte balíček **PENB + projekt + technický dozor** pro komplexní renovaci.
 3. **Začněte přípravu** (projekt, PENB, renovační pas) **hned** — to o nárok nepřipraví. **Velké platby a realizaci** ale navažte na **schválení žádosti (po 25. 6. 2026)** a **úvěr od banky (od září 2026)**.
-4. **Stáhněte a projděte** primární dokument [Závazné pokyny RD (28. 5. 2026)](https://novazelenausporam.cz/dokumenty/) — zejména kap. 2.3 (úvěr), 3 (sazby) a 7 (způsobilé výdaje); a počkejte na **seznam zapojených bank** (září 2026).
+4. **Stáhněte a projděte** primární dokument [Závazné pokyny RD (verze 1.1, 24. 6. 2026)](https://novazelenausporam.cz/dokumenty/) — zejména kap. 2.3 (úvěr), 3 (sazby) a 7 (způsobilé výdaje); a počkejte na **seznam zapojených bank** (září 2026).
 5. **U nejistých bodů si vyžádejte písemné stanovisko SFŽP / poradce:** (a) bonusy v úvěrové větvi pro RD, (b) způsob započtení wallboxu do úvěru, (c) podmínky D.2 pro využití jímky (užitková voda vs. jen zálivka), (d) možnost zahrnout existující hypotéku.
 
 ---
@@ -526,7 +526,7 @@ Pomocným skriptem `tools/mpo-enex-kladno.py` byl **31. 5. 2026** stažen z rejs
 ## Zdroje (klíčové)
 
 **Primární / oficiální:**
-- Závazné pokyny pro žadatele a příjemce – **Bezúročný úvěr RD, platné 28. 5. 2026** (PDF), přehled dokumentů: [novazelenausporam.cz/dokumenty](https://novazelenausporam.cz/dokumenty/)
+- Závazné pokyny pro žadatele a příjemce – **Bezúročný úvěr RD, verze 1.1, platné 24. 6. 2026** (PDF, uloženo v `docs/NZU/`), přehled dokumentů: [novazelenausporam.cz/dokumenty](https://novazelenausporam.cz/dokumenty/)
 - NZÚ Light – zranitelné domácnosti: [novazelenausporam.cz/nzu-light](https://novazelenausporam.cz/nzu-light-zranitelne-domacnosti/)
 - TZ MŽP: [Finální podoba programu NZÚ](https://mzp.gov.cz/cz/pro-media-a-verejnost/aktuality/archiv-tiskovych-zprav/finalni-podoba-programu-nova-zelena-usporam-je-tu-domacnosti-mohou-zacit-s-pripravou-zadosti) · [Efektivní, udržitelná a lépe cílená](https://mzp.gov.cz/cz/pro-media-a-verejnost/aktuality/archiv-tiskovych-zprav/efektivni-udrzitelna-a-lepe-cilena-nova) · [Bonus za kombinaci až 200 000 Kč](https://mzp.gov.cz/cz/pro-media-a-verejnost/aktuality/archiv-tiskovych-zprav/startuje-nova-etapa-programu-nova-zelena)
 - Rejstřík energetických specialistů: [mpo-enex.cz/experti](https://www.mpo-enex.cz/experti/ExpertList.aspx) · [seznam na mpo.gov.cz](https://mpo.gov.cz/cz/energetika/uspory-energie/energeticti-specialiste/seznam-energetickych-specialistu/seznam-energetickych-specialistu--277128/)
