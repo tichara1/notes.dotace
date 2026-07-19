@@ -115,6 +115,9 @@ Jednotkové částky = **maximální výše úvěru** na jednotku (nikdy ne víc
   - Min. objem nádrže na dešťovku **2 m³**; systém napojí **alespoň polovinu toalet**.
   - Podpora cílí na **užitkovou vodu** (splachování WC) — samotná zálivka je jen
     sekundární využití.
+  - **Náš záměr je ale čistě zálivka zahrady, bez napojení do domu.** To naráží
+    na podmínku „napojení alespoň poloviny toalet" — **nárok na D.2 je tím pádem
+    sporný, spíš ne.** Ověřit s projektantem/poradcem.
 
 ## Požadované dokumenty — pro naše oblasti (kap. 4.1)
 

@@ -249,6 +249,7 @@ Jednotkové částky = **maximální výše úvěru** na jednotku (Závazné pok
   - Min. objem nádrže na dešťovku: **2 m³**.
   - **Pozor 1:** Oblast D lze podpořit **jen v kombinaci** se zateplením (A) nebo zdroji (C). Vy ji budete kombinovat → OK.
   - **Pozor 2:** Podpora cílí na **užitkovou vodu** (splachování WC, úklid); samotná **zálivka** je jen „sekundární využití". Systém čistě na zálivku bez napojení do domu nemusí splnit podmínku. Ověřte s projektantem.
+  - **Upřesnění záměru:** naše nádrž má být **čistě na zálivku zahrady, nikdy ne do domu** (žádné WC/úklid). Tím se dostáváme přesně do problému výše — **nárok na D.2 je sporný, spíš ne**. Necháváme jako otevřenou otázku pro projektanta/poradce.
 
 ### Program „Dešťovka"
 Samostatná „Dešťovka" je **integrována do NZÚ 2026** (oblast D.2). Na stejnou nemovitost **nelze** čerpat, pokud už byla Dešťovka vyplacena. Pro vás tedy platí výše uvedené sazby D.2 v rámci úvěru.
