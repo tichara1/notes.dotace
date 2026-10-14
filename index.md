@@ -42,6 +42,10 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
       (viz [Rešerše](reserse-nzu-2026.html))
 - [ ] **Počkat na výstup Fáze 0** od Ing. Vitouše (varianty s okny / bez oken); pokud
       nepřijde, připomenout se — dle nabídky měl být do 15 prac. dní od objednávky
+- [ ] **Porovnat výstup Fáze 0 s naším nezávislým modelem** → [Úspory a návratnost](05-model/navratnost.html)
+      (orientačně: A bez oken ≈ +2,8 tis. Kč/měs. během splácení, B s okny ≈ +5,0 tis.; úvěr 2 mil. při
+      tržních cenách nevyjde — strop ≈ 1,07 / 1,6 mil.; **bez oken hrozí, že nesplníme 30 % úspory**).
+      Zeptat se Ing. Vitouše na U stávajících stěn a oken a % úspory ve variantě bez oken.
 - [ ] **Rozhodnout okna ano / ne** podle variant → [Cíl a rozsah](01-prehled/cil-a-rozsah.html)
 - [ ] **Potvrdit Consultoře Fáze 1–4** (+ technický dozor) — nabídka platí jen do
       **~26. 10. 2026**; pokud to nestihneme, požádat o prodloužení
