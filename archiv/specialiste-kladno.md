@@ -1,10 +1,14 @@
 ---
 title: Specialisté PENB (okres Kladno)
-parent: Specialisté
-nav_order: 3
+parent: Archiv
+nav_order: 4
 ---
 
 # Energetičtí specialisté (PENB) – okres Kladno / dojezd Dřetovic
+
+> 🗄️ **Archiv (14. 10. 2026):** výběr specialisty je uzavřený — spolupracujeme s
+> **Consultora s.r.o.** → [Consultora — spolupráce](../07-specialiste/consultora.html).
+> Stránka zůstává jen pro historii.
 
 > Zdroj: oficiální rejstřík **MPO-ENEX** (https://www.mpo-enex.cz/experti/ExpertList.aspx), filtr Středočeský kraj + oprávnění PENB.
 > Staženo: **2026-05-31**. Středočeský kraj celkem: 279 držitelů PENB; v okrese Kladno / dojezdu Dřetovic: **17**.

@@ -1,7 +1,7 @@
 ---
-title: Měsíční platby: teď vs. po rekonstrukci
-parent: Dotace
-nav_order: 5
+title: "Měsíční platby: teď vs. po rekonstrukci"
+parent: Model úspor
+nav_order: 3
 ---
 
 # Měsíční platby: teď vs. po rekonstrukci
@@ -10,7 +10,7 @@ nav_order: 5
 > úspory a splátka jsou odhad. Odvození čísel je v
 > [Rešerši, sekce 0.6](../reserse-nzu-2026.html).
 > Splátka platí pro **bezúročný úvěr ~1,44 mil. Kč na 15 let** (moje větev — viz
-> [Financování](financovani.html)).
+> [Financování](../06-dotace/financovani.html)).
 
 ## Hlavní srovnání — tři fáze
 

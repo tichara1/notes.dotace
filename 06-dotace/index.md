@@ -1,6 +1,6 @@
 ---
 title: Dotace
-nav_order: 2
+nav_order: 6
 has_children: true
 ---
 
@@ -12,6 +12,7 @@ Nová zelená úsporám 2026+, potřebné podklady a financování.
 - [Závazné pokyny (úvěr) — souhrn](zavazne-pokyny-uver.html)
 - [Podklady — checklist](podklady-checklist.html)
 - [Financování](financovani.html)
-- [Měsíční platby: teď vs. po rekonstrukci](mesicni-naklady.html)
+
+Měsíční platby teď vs. po rekonstrukci jsou v sekci [Model úspor](../05-model/index.html).
 
 Podrobný rozbor (nárok, sazby, propočty, postup) → [Rešerše NZÚ 2026+](../reserse-nzu-2026.html)

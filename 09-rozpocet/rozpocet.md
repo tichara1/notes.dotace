@@ -1,6 +1,6 @@
 ---
 title: Rozpočet
-nav_order: 5
+nav_order: 9
 ---
 
 # Rozpočet
@@ -18,7 +18,7 @@ nav_order: 5
 | Zdroj tepla | 0 |  | plyn ponecháváme |
 | Fotovoltaika 8 kWp + baterie 10 kWh | 320 000–420 000 |  | max. úvěr 350 000 (strop opatření 400 000) |
 | Rekuperace | — |  | neplánuje se |
-| Energetický posudek / pas | 3 000–8 000 + projekt/dozor |  | poradenství + renovační pas zdarma; PENB/projekt/dozor je způsobilý výdaj úvěru |
+| Energetický posudek / pas | 3 000–8 000 + projekt/dozor | 110 000 (nabídka) | **Consultora:** Fáze 0–4 = 90 000 + TDI 20 000 (vč. DPH); z úvěru ~80 000 (projekt + EH + TDI), Fáze 3+4 (20 000) z vlastních, Fáze 0 nejasně ([ověření](../07-specialiste/consultora-overeni.html)) |
 | Ostatní (wallbox, retence z jímky D.2) | 80 000–190 000 |  | wallbox 30–40 tis.; retence max. úvěr 100 000 |
 | **Celkem** | **~1,2–2,0 mil.** |  | orientační investice ~1 455 000 |
 
@@ -32,8 +32,12 @@ nav_order: 5
 | **Celkem** | **~1 455 000** |
 
 ## Poznámky
+- **Retenční nádrž jen na zálivku z úvěru financovat nejde** (D.2 vyžaduje WC) → 100 000
+  v krytí úvěrem neplatí; přepočítat spolu s variantami.
+- **Součty výše ještě nezahrnují nabídku Consultory** (+~110 000 Kč místo 3–8 tis.) —
+  přepočítat po výstupu Fáze 0 (varianta s okny / bez oken).
 - **Vejde se do stropu 2 mil. Kč** komplexní renovace (rezerva ~545 tis.).
-- **Měsíční splátka ~8 000 Kč** (15 let, bezúročně) — viz [Měsíční platby](../02-dotace/mesicni-naklady.html).
+- **Měsíční splátka ~8 000 Kč** (15 let, bezúročně) — viz [Měsíční platby](../05-model/mesicni-naklady.html).
 - **Cash-flow:** během splácení je splátka vyšší než energetická úspora; s EV se
   rozdíl díky úspoře paliva téměř vyrovná. Po splacení čistá úspora ~47 tis. Kč/rok.
 - Velké platby navázat na schválení žádosti (po 25. 6. 2026) a úvěr (od září 2026).

@@ -1,12 +1,12 @@
 ---
 title: Rešerše NZÚ 2026+ (komplexní)
-nav_order: 7
+nav_order: 11
 ---
 
 # Rešerše: Nová zelená úsporám 2026+ a NZÚ Light 2026 pro konkrétní dům
 
 > **Datum zpracování:** 31. 5. 2026 · **Ověřeno proti aktuální verzi:** 19. 7. 2026
-> **Stav podmínek:** Závazně platí **verze 1.1 Závazných pokynů (RODINNÉ DOMY, úvěr), platná od 24. 6. 2026** (1. aktualizace; nahrazuje původní znění z 28. 5. 2026). Příjem žádostí startuje **25. 6. 2026**, banky nabízejí úvěr **od září 2026**. Všechna klíčová čísla níže (limity úvěru, splatnosti, sazby zateplení, FVE a vody D.2) byla proti verzi 1.1 **ověřena a sedí** — souhrn zdroje viz [Závazné pokyny (úvěr) — souhrn](02-dotace/zavazne-pokyny-uver.html).
+> **Stav podmínek:** Závazně platí **verze 1.1 Závazných pokynů (RODINNÉ DOMY, úvěr), platná od 24. 6. 2026** (1. aktualizace; nahrazuje původní znění z 28. 5. 2026). Příjem žádostí startuje **25. 6. 2026**, banky nabízejí úvěr **od září 2026**. Všechna klíčová čísla níže (limity úvěru, splatnosti, sazby zateplení, FVE a vody D.2) byla proti verzi 1.1 **ověřena a sedí** — souhrn zdroje viz [Závazné pokyny (úvěr) — souhrn](06-dotace/zavazne-pokyny-uver.html).
 >
 > **Jak číst tento dokument:** Všechny ceny a propočty jsou **orientační odhad**. U sazeb a podmínek programu je uveden zdroj. **Primární zdroj** je dokument *Závazné pokyny pro žadatele a příjemce podpory v podprogramu NZÚ – RODINNÉ DOMY, verze 1.1, platná od 24. 6. 2026* (dále „Závazné pokyny RD"). Komerční weby jsou označeny a slouží jen jako doplněk.
 
@@ -333,6 +333,10 @@ Samostatná „Dešťovka" je **integrována do NZÚ 2026** (oblast D.2). Na ste
 
 ## 8) Energetičtí specialisté poblíž Dřetovic (okres Kladno)
 
+> 🗄️ **Aktualizace 14. 10. 2026:** specialista je vybraný — **Consultora s.r.o.**
+> (Fáze 0 objednána 11. 9. 2026) → [Consultora — spolupráce](07-specialiste/consultora.html).
+> Tato sekce zůstává jako podklad výběru.
+
 > **Poctivé sdělení:** Konkrétní místní specialisty **s ověřeným hvězdičkovým hodnocením a počtem recenzí** se mi přes dostupné vyhledávání **nepodařilo spolehlivě ověřit**. Podle vašeho pokynu **kontakty ani recenze nevymýšlím**. Místo toho dávám **oficiální, ověřitelný rejstřík** a přesný postup, jak si 5 specialistů sami vyberete a prověříte. Hodnocení u jednotlivých subjektů níže = **„nenalezeno (ověřte na Google/Firmy.cz)"**.
 
 ### Primární (ověřitelný) zdroj — oficiální rejstřík MPO
@@ -340,7 +344,7 @@ Samostatná „Dešťovka" je **integrována do NZÚ 2026** (oblast D.2). Na ste
 
 ### Ověření držitelé oprávnění PENB v okrese Kladno (z rejstříku MPO)
 
-Pomocným skriptem `tools/mpo-enex-kladno.py` byl **31. 5. 2026** stažen z rejstříku MPO-ENEX celý Středočeský kraj (**279 držitelů PENB**) a vyfiltrováni ti v **okrese Kladno / dojezdu Dřetovic — celkem 17**. Jména, telefony, e‑maily a platnost oprávnění jsou **přímo z oficiálního rejstříku** (ověřitelné). **Hodnocení rejstřík neobsahuje** — ověřte přes odkazy. Plný seznam (stránka webu): **[Specialisté PENB (okres Kladno)](03-specialiste/specialiste-kladno.html)**.
+Pomocným skriptem `tools/mpo-enex-kladno.py` byl **31. 5. 2026** stažen z rejstříku MPO-ENEX celý Středočeský kraj (**279 držitelů PENB**) a vyfiltrováni ti v **okrese Kladno / dojezdu Dřetovic — celkem 17**. Jména, telefony, e‑maily a platnost oprávnění jsou **přímo z oficiálního rejstříku** (ověřitelné). **Hodnocení rejstřík neobsahuje** — ověřte přes odkazy. Plný seznam (stránka webu): **[Specialisté PENB (okres Kladno)](archiv/specialiste-kladno.html)** (archiv).
 
 **Nejbližší k Dřetovicím (výběr; ~platnost PENB):**
 
@@ -517,7 +521,7 @@ Pomocným skriptem `tools/mpo-enex-kladno.py` byl **31. 5. 2026** stažen z rejs
 ## Co dělat teď — 5 konkrétních kroků
 
 1. **Ověřte si příjmový decil** oficiálním [výpočtovým nástrojem (xlsx)](https://novazelenausporam.cz/dokumenty/) — rozhodne, zda dosáhnete na splatnost 25 let (do 4. decilu), nebo „jen" 15 let. (Na samotný nárok na úvěr to nemá vliv.)
-2. **Vyberte energetického specialistu** z rejstříku [MPO-ENEX, okres Kladno](https://www.mpo-enex.cz/experti/ExpertList.aspx) — najděte 5 kandidátů, prověřte hodnocení na Google Maps / Firmy.cz, poptejte balíček **PENB + projekt + technický dozor** pro komplexní renovaci.
+2. ✅ _Hotovo — vybrána Consultora s.r.o. ([detail](07-specialiste/consultora.html))._ Původně: **Vyberte energetického specialistu** z rejstříku [MPO-ENEX, okres Kladno](https://www.mpo-enex.cz/experti/ExpertList.aspx) — najděte 5 kandidátů, prověřte hodnocení na Google Maps / Firmy.cz, poptejte balíček **PENB + projekt + technický dozor** pro komplexní renovaci.
 3. **Začněte přípravu** (projekt, PENB, renovační pas) **hned** — to o nárok nepřipraví. **Velké platby a realizaci** ale navažte na **schválení žádosti (po 25. 6. 2026)** a **úvěr od banky (od září 2026)**.
 4. **Stáhněte a projděte** primární dokument [Závazné pokyny RD (verze 1.1, 24. 6. 2026)](https://novazelenausporam.cz/dokumenty/) — zejména kap. 2.3 (úvěr), 3 (sazby) a 7 (způsobilé výdaje); a počkejte na **seznam zapojených bank** (září 2026).
 5. **U nejistých bodů si vyžádejte písemné stanovisko SFŽP / poradce:** (a) bonusy v úvěrové větvi pro RD, ~~(b) způsob započtení wallboxu do úvěru~~ **ověřeno — wallbox se počítá v rámci stropu FVE, viz bod 12**, (c) podmínky D.2 pro využití jímky (užitková voda vs. jen zálivka), (d) možnost zahrnout existující hypotéku.

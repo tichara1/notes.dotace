@@ -15,17 +15,23 @@ Czech unless the user asks otherwise.
 
 ## Structure
 
-Numbered top-level folders (`01-` … `06-`) define both the reading order and the
+Numbered top-level folders (`01-` … `10-`) define both the reading order and the
 nav order. Each section folder has an `index.md` (the section landing page) plus
 content pages. The numbering scheme is intentional — preserve it when adding files.
 
 - `01-prehled/` — scope, priorities, timeline
-- `02-dotace/` — NZÚ 2026+ overview, required documents, financing (grant vs. loan)
-- `03-specialiste/` — energy specialist, contacted parties
-- `04-realizace/` — execution: contractor vs. subcontractors, RFQs, bid comparison
-- `05-rozpocet/` — budget
-- `06-dokumenty/` — meeting log and document links
-- `docs/superpowers/specs/` — design specs (the structure rationale lives here)
+- `02-dum/` — **input data**: house parameters, envelope, windows/doors, building services
+- `03-energie/` — **input data**: electricity + gas bills, actual consumption and unit prices
+- `04-opatreni/` — **input data**: proposed measures (Consultora Fáze 0 output), variants, materials
+- `05-model/` — savings/payback model built from 02–04: assumptions, results, monthly payments
+- `06-dotace/` — NZÚ 2026+ overview, binding guidelines, required documents, financing
+- `07-specialiste/` — energy specialist, cooperation with Consultora s.r.o. (chosen partner)
+- `08-realizace/` — execution: contractor vs. subcontractors, firms by reviews, RFQs, bid comparison
+- `09-rozpocet/` — budget
+- `10-dokumenty/` — meeting log and document links
+- `archiv/` — outdated inquiries/notes (moved, never deleted); `parent: Archiv`
+- `_soukrome/` — gitignored local folder for raw private files (bills, scans, photos); never commit
+- `docs/superpowers/specs/` — design specs (the structure rationale lives here; current: `2026-10-14-struktura-podklady-model.md`)
 
 ## just-the-docs front matter conventions
 
