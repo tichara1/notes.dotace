@@ -27,7 +27,7 @@ Kompletní tabulka a podmínky → [souhrn závazných pokynů](zavazne-pokyny-u
 | Výplně otvorů — okna, dveře (obl. A) | **12 000 Kč/m²** | Ano (volitelné, ~56,8 m²) |
 | FVE + baterie (obl. C.3) | **25 000 Kč/kWp** + **15 000 Kč/kWh**, strop 400 000 Kč | **Ano** (~8 kWp + ~10 kWh) |
 | Wallbox (obl. C) | způsobilý výdaj (bez vlastní sazby) | Ano (k FVE/EV) |
-| Hospodaření s vodou — dešťovka + WC (obl. D.2) | **100 000 Kč** | Ano (přestavba jímky) |
+| Hospodaření s vodou — dešťovka + WC (obl. D.2) | **100 000 Kč** | Spíš ne — jímka jen na zálivku (dle Consultory to netřeba řešit) |
 | **Strop komplexní renovace celkem** | **2 000 000 Kč** | rozsah se vejde s rezervou |
 
 ## Do které kategorie spadáme

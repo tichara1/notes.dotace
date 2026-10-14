@@ -10,74 +10,54 @@ Rozcestník k plánování rekonstrukce rodinného domu s dotací **Nová zelen�
 
 ## 📍 Kde právě jsme
 
+Spolupracujeme s **Consultora s.r.o.** na **NZÚ Bezúročném úvěru — oblast komplexní**.
+**Fáze 0 (energetická studie) je objednaná**, Ing. Vitouš dům zaměřil a počítá
+varianty **s okny / bez oken** → [Consultora — spolupráce](03-specialiste/consultora.html).
+
 | Fáze | Co obsahuje | Stav |
 |------|-------------|------|
-| **1. Příprava** | rozsah, výběr specialisty, PENB + projekt + dozor | 🔵 **← tady jsme** |
-| 2. Žádost | podání v AIS SFŽP (příjem **od 25. 6. 2026**) | ⏳ čeká |
-| 3. Úvěr + realizace | smlouva s bankou (**od září 2026**), stavba | ⏳ čeká |
-| 4. Doložení a čerpání | doložení dokončení (do **31. 12. 2031**) | ⏳ čeká |
+| **1. Příprava** | rozsah, ~~výběr specialisty~~ ✅ Consultora, **Fáze 0 — studie** | 🔵 **← tady jsme** (čeká se na výstup Fáze 0) |
+| 2. Žádost | Fáze 1–3: projekt + energetické hodnocení, podání v AIS SFŽP (příjem běží od 25. 6. 2026) | ⏳ čeká |
+| 3. Úvěr + realizace | s Kladným rozhodnutím ministra smlouva s bankou (banky od září 2026), stavba | ⏳ čeká |
+| 4. Doložení a čerpání | Fáze 4: doložení dokončení (36 měsíců od schválení, nejpozději **31. 12. 2031**) | ⏳ čeká |
 
 Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
 
 > ✅ Podmínky ověřeny **19. 7. 2026** proti závazné **verzi 1.1 pokynů (platné od 24. 6. 2026)** —
 > naše čísla (limity úvěru, splatnosti, sazby) **sedí**. Souhrn →
 > [Závazné pokyny (úvěr)](02-dotace/zavazne-pokyny-uver.html).
+>
+> ⏳ **Tvrzení Consultory** (čerpání úvěru, co jde z úvěru, FVE, lhůty…) se **ověřují** —
+> výsledky se doplní do [tabulky tvrzení](03-specialiste/consultora.html).
 
 ## ✅ Co je teď potřeba (další kroky)
 
 > _Odškrtávej `- [x]`, jak postupuješ. Detail u jednotlivých kroků na odkazovaných stránkách._
 
-- [ ] Ujasnit a sepsat **rozsah rekonstrukce** → [Cíl a rozsah](01-prehled/cil-a-rozsah.html)
-- [ ] Oslovit **TOP 10 poradců** (viz „Koho kontaktovat" níže) a poptat balíček
-      renovační pas / PENB + projekt + dozor; u kandidátů #4–#10 při tom **ověřit
-      hodnocení** →
-      [Poradci NZÚ 2026 (renovační pas)](03-specialiste/poradci-renovacni-pas.html),
-      [stav oslovení](03-specialiste/oslovene-kontakty.html)
-    - ✉️ **19. 7. 2026: osloveni první 3** (Šimůnek, Vitouš, Tíkal) — čeká se na odpovědi;
-      další v pořadí oslovit, pokud se neozvou
+- [x] ~~Vybrat energetického specialistu~~ — **Consultora s.r.o.**, Fáze 0 objednána 11. 9. 2026
+      (historie výběru → [Archiv](archiv/index.html))
 - [x] ~~Ověřit příjmový decil~~ — spadáme **nad 4. decil → splatnost 15 let**
       (viz [Rešerše](reserse-nzu-2026.html))
+- [ ] **Počkat na výstup Fáze 0** od Ing. Vitouše (varianty s okny / bez oken); pokud
+      nepřijde, připomenout se — dle nabídky měl být do 15 prac. dní od objednávky
+- [ ] **Rozhodnout okna ano / ne** podle variant → [Cíl a rozsah](01-prehled/cil-a-rozsah.html)
+- [ ] **Potvrdit Consultoře Fáze 1–4** (+ technický dozor) — nabídka platí jen do
+      **~26. 10. 2026**; pokud to nestihneme, požádat o prodloužení
+- [ ] Zřídit **bankovní identitu / eIdentitu** (podmínka plné moci pro Consultoru)
+- [ ] Domluvit **prověření bonity** (přes poradce banky od Consultory, nebo sami)
 - [ ] Připravit podklady k žádosti → [Podklady — checklist](02-dotace/podklady-checklist.html)
-- [ ] Počkat na **příjem žádostí (25. 6. 2026)** a na **seznam zapojených bank (září 2026)**
 
-> ⚠️ **Velké platby a realizaci** navázat až na schválení žádosti (po 25. 6.) a úvěr (od září 2026).
+> ⚠️ **Velké platby a realizaci** navázat až na schválení žádosti (Kladné rozhodnutí ministra) a smlouvu o úvěru.
 
-## ☎️ Koho kontaktovat — TOP 10 dle poměru cena / hodnocení / vzdálenost
+## ☎️ Koho kontaktovat
 
-Poradci pro NZÚ s **renovačním pasem** (ideálně + projekt + dozor), seřazení podle
-kombinace **hodnocení + vzdálenost + cena**. Metodika je pod tabulkou.
+| Kdo | K čemu | Telefon | E-mail |
+|-----|--------|---------|--------|
+| **Ing. Jan Vitouš** (Consultora) | Fáze 0 — výstup studie, varianty s okny / bez | 720 348 522 | vitousja@gmail.com |
+| **Jan Škoda** (Consultora, jednatel) | smlouva na Fáze 1–4, nabídka, bonita, plná moc | 608 913 596 | jan.skoda@consultora.cz |
 
-| # | Kdo | Hodnocení | Recenze | Vzdálenost od Dřetovic | Telefon | E-mail | Web |
-|---|-----|-----------|---------|------------------------|---------|--------|-----|
-| 1 | **AltenergyCZ — Ing. arch. M. Šimůnek** ✉️ | ★ 4,9 (62) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=AltenergyCZ%20Kladno%20C.%20Boudy%201444) | Kladno ~10 km | 775 320 337 | simunek.martin@email.cz | [altenergy.cz](https://altenergy.cz/) |
-| 2 | **Consultora s.r.o.** (Jan Vitouš) ✉️ | ★ 5,0 (258) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=Consultora%20s.r.o.%20energetick%C3%BD%20specialista) | Kladno (působnost) | 720 348 522 | vitousja@gmail.com | [consultora.cz](https://www.consultora.cz) |
-| 3 | **OFSTONE s.r.o.** (Tomáš Tíkal) ✉️ | ★ 5,0 (7) ✅ | [Maps](https://www.google.com/maps/search/?api=1&query=OFSTONE%20s.r.o.%20PENB%20pr%C5%AFkazy) | Praha / Kladno (působnost) | 775 155 331 | tikal@penb-prukazy.cz | [ofstone.cz](https://www.ofstone.cz) |
-| 4 | **Centrum udržitelné energie z.s.** (L. Jůna) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Centrum%20udr%C5%BEiteln%C3%A9%20energie%20Cenerg%20J%C5%AFna) | nejbližší dle SFŽP (poř. 1) | 605 451 981 | ladislav.juna@cenerg.cz | [cenerg.cz](https://www.cenerg.cz) |
-| 5 | **Ing. Marie Rodová** | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Marie%20Rodov%C3%A1%20energetick%C3%BD%20specialista%20Kladno) | Kladno ~10 km | 725 929 349 | marie.rodova@email.cz | [web](https://ingrodovamarie-887317.webnode.cz) |
-| 6 | **ECOTEN s.r.o.** (Jiří Tencar) | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=ECOTEN%20s.r.o.%20Ji%C5%99%C3%AD%20Tencar) | Praha / Kladno (poř. 4) | 736 630 021 | tencar@ecoten.cz | [ecoten.cz](https://www.ecoten.cz) |
-| 7 | **Anna Gamanová** | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Anna%20Gamanov%C3%A1%20annarchitects%20Kladno) | Kladno ~10 km | 775 081 285 | anna.gam@seznam.cz | [annarchitects.cz](https://annarchitects.cz/) |
-| 8 | **Ing. Kateřina Ullmannová** | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Kate%C5%99ina%20Ullmannov%C3%A1%20energetick%C3%BD%20specialista) | poř. 6 dle SFŽP | 776 220 797 | energeticky.specialista@centrum.cz | [penb1.webnode.cz](https://penb1.webnode.cz/) |
-| 9 | **Ing. Anna Recinová** | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Anna%20Recinov%C3%A1%20EKIS) | poř. 7 dle SFŽP | 702 198 091 | dotace.ekis@gmail.com | [EKIS](https://efekt.gov.cz/cz/ekis/strediska-EKIS) |
-| 10 | **Ing. Pavel Korima** | _neověřeno_ | [Maps](https://www.google.com/maps/search/?api=1&query=Ing.%20Pavel%20Korima%20dozordapozor) | poř. 9 dle SFŽP | 603 563 006 | korima@volny.cz | [dozordapozor.cz](https://dozordapozor.cz) |
-
-✉️ = **osloveno 19. 7. 2026** (první 3). Stav odpovědí →
-[Oslovené kontakty](03-specialiste/oslovene-kontakty.html).
-
-**Jak je řadím:** nutná podmínka je ✓ **renovační pas**. **Cena** (nízká váha):
-renovační pas přes síť SFŽP bývá bezplatný/nízký u všech ✓ → nerozlišuje (projekt +
-dozor se cení individuálně, poptat). **Hodnocení** (vysoká váha): ověřené Google
-hvězdy + počet recenzí (✅ = ověřeno přes Google Maps 1. 6. 2026; _neověřeno_ = zbývá
-doplnit). **Vzdálenost** (střední váha): pořadí z oficiálního vyhledávače SFŽP (řazen
-dle vzdálenosti), u kandidátů z PENB rejstříku upřesněno reálnými km.
-
-> ⚠️ **Hodnocení #4–#10 je zatím neověřené.** Ověř přes Google Maps / Firmy.cz (odkazy
-> v [detailu poradců](03-specialiste/poradci-renovacni-pas.html)) — po doplnění se může
-> pořadí uvnitř žebříčku posunout.
-
-Detail, celý seznam 20 poradců a metodika → [Poradci NZÚ 2026 — renovační pas](03-specialiste/poradci-renovacni-pas.html).
-Alternativa mimo síť s vysokým hodnocením: **chciPRŮKAZ – PENB** ★ 5,0 (45) — ověřit, zda dělá i renovační pas.
-
-📧 Hotový mail k odeslání → [Šablona poptávky](03-specialiste/sablona-poptavky.html).
+Nabídka, ceny a co Consultora tvrdí → [Consultora — spolupráce](03-specialiste/consultora.html).
+Původní žebříček TOP 10 poradců → [Archiv](archiv/top10-poradci.html).
 
 ## Kde co najít
 
@@ -87,8 +67,10 @@ Alternativa mimo síť s vysokým hodnocením: **chciPRŮKAZ – PENB** ★ 5,0 
 | [Dotace](02-dotace/nzu-2026-prehled.html) | Na co dosáhneme, podklady, financování |
 | [Závazné pokyny (úvěr)](02-dotace/zavazne-pokyny-uver.html) | Souhrn oficiálního dokumentu — limity, sazby, lhůty |
 | [Měsíční platby](02-dotace/mesicni-naklady.html) | Kolik platím teď vs. energie + splátka po rekonstrukci |
-| [Specialisté](03-specialiste/energeticky-specialista.html) | Energetický specialista, kontakty |
+| [Specialisté](03-specialiste/energeticky-specialista.html) | Energetický specialista |
+| [**Consultora — spolupráce**](03-specialiste/consultora.html) | Stav, nabídka a ceny, tvrzení k ověření, kontakty |
 | [Realizace](04-realizace/firma-vs-subdodavatele.html) | Firma vs subdodavatelé, poptávky, nabídky |
 | [Rozpočet](05-rozpocet/rozpocet.html) | Náklady, dotace/úvěr, vlastní zdroje |
 | [Dokumenty](06-dokumenty/deniky-a-dokumenty.html) | Deník jednání a dokumenty |
 | [**Rešerše NZÚ 2026+**](reserse-nzu-2026.html) | Komplexní rozbor: nárok, sazby, propočty, postup, specialisté |
+| [Archiv](archiv/index.html) | Neaktuální poptávky a seznamy (výběr specialisty) |

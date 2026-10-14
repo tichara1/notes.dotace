@@ -21,10 +21,11 @@ content pages. The numbering scheme is intentional — preserve it when adding f
 
 - `01-prehled/` — scope, priorities, timeline
 - `02-dotace/` — NZÚ 2026+ overview, required documents, financing (grant vs. loan)
-- `03-specialiste/` — energy specialist, contacted parties
+- `03-specialiste/` — energy specialist, cooperation with Consultora s.r.o. (chosen partner)
 - `04-realizace/` — execution: contractor vs. subcontractors, RFQs, bid comparison
 - `05-rozpocet/` — budget
 - `06-dokumenty/` — meeting log and document links
+- `archiv/` — outdated inquiries/notes (moved, never deleted); `parent: Archiv`
 - `docs/superpowers/specs/` — design specs (the structure rationale lives here)
 
 ## just-the-docs front matter conventions

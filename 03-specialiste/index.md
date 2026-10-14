@@ -6,10 +6,10 @@ has_children: true
 
 # Specialisté
 
-Energetický (dotační) specialista a stav oslovených kontaktů.
+Energetický (dotační) specialista a spolupráce s vybranou firmou.
 
-- [Energetický specialista](energeticky-specialista.html)
-- [Oslovené kontakty](oslovene-kontakty.html)
-- [Poradci NZÚ 2026 — renovační pas](poradci-renovacni-pas.html) — z oficiálního vyhledávače NZÚ, dle vzdálenosti
-- [Specialisté PENB (okres Kladno)](specialiste-kladno.html) — ověření držitelé z rejstříku MPO
-- [Šablona poptávky (e-mail)](sablona-poptavky.html) — hotový mail k odeslání
+- [Energetický specialista](energeticky-specialista.html) — co od specialisty potřebujeme
+- [Consultora — spolupráce](consultora.html) — **vybraný partner**: stav, nabídka, ceny, tvrzení k ověření
+
+Výběr specialisty (seznamy poradců, oslovené kontakty, šablona poptávky) je uzavřený →
+[Archiv](../archiv/index.html).

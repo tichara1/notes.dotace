@@ -23,12 +23,12 @@ Dům: RD, kolaudace **2009**, Porotherm **bez zateplení**, obec u Dřetovic (ok
 |--------|----------|-----------|----------------------|
 | Zateplení fasády | Porotherm bez zateplení, ~250 m² | Zateplit 250 m² (U ≤ 0,21) | **must** |
 | Střecha / strop | Už zateplená (min. vata) | Oprava izolace po kunách (pár m²) — kvůli třídě C | **must** (komplexní renovace) |
-| Okna a dveře | Původní | Výměna 56,81 m² (19 oken + 4 dveře), trojsklo Uw ≤ 0,9 | nice |
+| Okna a dveře | Původní | Výměna 56,81 m² (19 oken + 4 dveře), trojsklo Uw ≤ 0,9 | nice — **rozhodne Fáze 0** (Ing. Vitouš počítá varianty s okny / bez oken) |
 | Zdroj tepla (kotel / TČ) | Plynový kotel | Ponechat plyn (u komplexní renovace OK; OZE pokryje FVE) | — |
-| Fotovoltaika | Není | FVE ~8 kWp + baterie ~10 kWh (střecha ~40 m²) | **must** (OZE pro komplexní renovaci) |
+| Fotovoltaika | Není | FVE ~8 kWp + baterie ~10 kWh (střecha ~40 m²) | **must** (OZE pro komplexní renovaci); Consultora radí dát do žádosti spíš menší výkon |
 | Rekuperace / větrání | Není | Neplánuje se | — |
 | Ohřev vody | Plyn | Z přebytků FVE | nice |
-| Ostatní | — | Wallbox + EV; retenční nádrž z jímky (D.2) | nice |
+| Ostatní | — | Wallbox + EV; retenční nádrž z jímky (jen zálivka) | nice — nádrž dle Consultory pro zálivku do projektu řešit netřeba |
 
 ## Must-have vs nice-to-have
 - **Musí být:** zateplení fasády, oprava izolace střechy (kvůli třídě C), FVE + baterie (OZE).
@@ -42,6 +42,7 @@ Dům: RD, kolaudace **2009**, Porotherm **bez zateplení**, obec u Dřetovic (ok
 - **D.2 (voda)** lze podpořit jen v kombinaci se zateplením (A) nebo zdroji (C).
 
 ## Otevřené otázky
+- [ ] **Okna ano / ne** — podle variant z Fáze 0 ([Consultora](../03-specialiste/consultora.html))
 - [ ] Potvrdit využitelnou plochu střechy pro FVE (~40 m²)
 - [ ] Nárok na garážové otvory (mimo vytápěnou obálku) — ověřit s projektantem
 - [x] ~~Jak wallbox vstupuje do výpočtu max. úvěru~~ — **ověřeno u SFŽP:** je způsobilý

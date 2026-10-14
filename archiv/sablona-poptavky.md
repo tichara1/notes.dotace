@@ -1,10 +1,14 @@
 ---
 title: Šablona poptávky (e-mail)
-parent: Specialisté
+parent: Archiv
 nav_order: 5
 ---
 
 # Šablona poptávky — e-mail specialistovi / poradci
+
+> 🗄️ **Archiv (14. 10. 2026):** výběr specialisty je uzavřený — spolupracujeme s
+> **Consultora s.r.o.** → [Consultora — spolupráce](../03-specialiste/consultora.html).
+> Stránka zůstává jen pro historii.
 
 Hotový e-mail pro [poradce NZÚ 2026](poradci-renovacni-pas.html) / energetického
 specialistu. Doplň osobní údaje v hranatých závorkách a pošli.
@@ -58,6 +62,6 @@ S pozdravem
 [adresa]
 ```
 
-Komu poslat → [TOP 10 kontaktů na úvodu](../index.html) nebo
+Komu poslat → [TOP 10 poradců](top10-poradci.html) nebo
 [Poradci NZÚ 2026 — renovační pas](poradci-renovacni-pas.html).
 Stav oslovení zapisuj do [Oslovené kontakty](oslovene-kontakty.html).

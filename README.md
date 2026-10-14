@@ -14,10 +14,12 @@ Poznámky a plánování rekonstrukce rodinného domu s dotací **Nová zelená
 
 1. [Přehled](01-prehled/) — cíl, rozsah, harmonogram
 2. [Dotace](02-dotace/) — NZÚ 2026+, podklady, financování
-3. [Specialisté](03-specialiste/) — energetický specialista, kontakty
+3. [Specialisté](03-specialiste/) — energetický specialista, spolupráce s Consultorou
 4. [Realizace](04-realizace/) — firma vs subdodavatelé, poptávky, nabídky
 5. [Rozpočet](05-rozpocet/) — náklady, dotace/úvěr, vlastní zdroje
 6. [Dokumenty](06-dokumenty/) — deník jednání a dokumenty
+
+Neaktuální poptávky a poznámky jsou v [Archivu](archiv/) — nic se nemaže, jen přesouvá.
 
 ## Publikace na GitHub Pages
 
