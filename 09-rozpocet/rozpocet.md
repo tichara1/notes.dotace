@@ -32,6 +32,9 @@ nav_order: 9
 | **Celkem** | **~1 455 000** |
 
 ## Poznámky
+- **Nezávislý model 14. 10. 2026** ([Úspory a návratnost](../05-model/navratnost.html)): A (bez oken)
+  ≈ 1,18 mil. Kč investice / úvěr ≈ 1,07 mil.; B (s okny) ≈ 1,74 mil. / úvěr ≈ 1,6 mil. **Úvěr 2 mil. Kč
+  při tržních cenách nevyjde** — úvěr nesmí převýšit faktury za způsobilá opatření.
 - **Retenční nádrž jen na zálivku z úvěru financovat nejde** (D.2 vyžaduje WC) → 100 000
   v krytí úvěrem neplatí; přepočítat spolu s variantami.
 - **Součty výše ještě nezahrnují nabídku Consultory** (+~110 000 Kč místo 3–8 tis.) —
