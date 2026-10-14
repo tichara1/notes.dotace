@@ -21,7 +21,7 @@ nav_order: 3
 ## Detaily nabídek
 
 ### Nabídka A — _firma_
-> _Co obsahuje, výhrady, dotazy, odkaz na PDF v_ `../06-dokumenty/`
+> _Co obsahuje, výhrady, dotazy, odkaz na PDF v_ `../10-dokumenty/`
 
 ## Výběr
 > _Koho jsme vybrali a proč._

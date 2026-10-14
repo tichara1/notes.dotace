@@ -8,7 +8,7 @@ nav_order: 1
 
 > 🗄️ **Archiv (14. 10. 2026):** tento blok byl do 14. 10. 2026 na úvodní stránce. Výběr
 > specialisty je uzavřený — spolupracujeme s **Consultora s.r.o.** →
-> [Consultora — spolupráce](../03-specialiste/consultora.html).
+> [Consultora — spolupráce](../07-specialiste/consultora.html).
 
 ## Původní krok z „Co je teď potřeba"
 

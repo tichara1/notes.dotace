@@ -115,4 +115,4 @@ Odpovědi z e-mailů 27. 8. a 1. 9. 2026.
 ## Poznámky z jednání
 
 > _Datum — co padlo, na čem jsme se domluvili, další krok. Chronologie e-mailů →
-> [Deník a dokumenty](../06-dokumenty/deniky-a-dokumenty.html)._
+> [Deník a dokumenty](../10-dokumenty/deniky-a-dokumenty.html)._

@@ -7,7 +7,7 @@ nav_order: 3
 # Poradci NZÚ 2026 — renovační pas (okolí Dřetovic)
 
 > 🗄️ **Archiv (14. 10. 2026):** výběr specialisty je uzavřený — spolupracujeme s
-> **Consultora s.r.o.** → [Consultora — spolupráce](../03-specialiste/consultora.html).
+> **Consultora s.r.o.** → [Consultora — spolupráce](../07-specialiste/consultora.html).
 > Stránka zůstává jen pro historii.
 
 > Zdroj: **oficiální vyhledávač poradců NZÚ 2026** na

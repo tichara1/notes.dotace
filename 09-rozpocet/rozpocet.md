@@ -1,6 +1,6 @@
 ---
 title: Rozpočet
-nav_order: 5
+nav_order: 9
 ---
 
 # Rozpočet
@@ -35,7 +35,7 @@ nav_order: 5
 - **Součty výše ještě nezahrnují nabídku Consultory** (+~110 000 Kč místo 3–8 tis.) —
   přepočítat po výstupu Fáze 0 (varianta s okny / bez oken).
 - **Vejde se do stropu 2 mil. Kč** komplexní renovace (rezerva ~545 tis.).
-- **Měsíční splátka ~8 000 Kč** (15 let, bezúročně) — viz [Měsíční platby](../02-dotace/mesicni-naklady.html).
+- **Měsíční splátka ~8 000 Kč** (15 let, bezúročně) — viz [Měsíční platby](../05-model/mesicni-naklady.html).
 - **Cash-flow:** během splácení je splátka vyšší než energetická úspora; s EV se
   rozdíl díky úspoře paliva téměř vyrovná. Po splacení čistá úspora ~47 tis. Kč/rok.
 - Velké platby navázat na schválení žádosti (po 25. 6. 2026) a úvěr (od září 2026).

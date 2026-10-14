@@ -8,6 +8,8 @@ nav_order: 1
 
 > Rozsah vychází z [Rešerše, sekce 0](../reserse-nzu-2026.html).
 > Ceny a propočty jsou **orientační**; finální čísla podle nabídek a PENB.
+> Podrobné podklady → [Dům](../02-dum/index.html); konkrétní návrh po Fázi 0 →
+> [Varianty opatření](../04-opatreni/varianty.html).
 
 ## Proč to děláme
 - **Úspora energií** — elektřina je drahá (~7,96 Kč/kWh) → FVE je ekonomicky
@@ -42,9 +44,9 @@ Dům: RD, kolaudace **2009**, Porotherm **bez zateplení**, obec u Dřetovic (ok
 - **D.2 (voda)** lze podpořit jen v kombinaci se zateplením (A) nebo zdroji (C).
 
 ## Otevřené otázky
-- [ ] **Okna ano / ne** — podle variant z Fáze 0 ([Consultora](../03-specialiste/consultora.html))
+- [ ] **Okna ano / ne** — podle variant z Fáze 0 ([Consultora](../07-specialiste/consultora.html))
 - [ ] Potvrdit využitelnou plochu střechy pro FVE (~40 m²)
 - [ ] Nárok na garážové otvory (mimo vytápěnou obálku) — ověřit s projektantem
 - [x] ~~Jak wallbox vstupuje do výpočtu max. úvěru~~ — **ověřeno u SFŽP:** je způsobilý
       výdaj v rámci stropu FVE (400 tis.), **bez vlastní sazby**; nezvyšuje strop
-      (viz [Závazné pokyny — souhrn](../02-dotace/zavazne-pokyny-uver.html))
+      (viz [Závazné pokyny — souhrn](../06-dotace/zavazne-pokyny-uver.html))

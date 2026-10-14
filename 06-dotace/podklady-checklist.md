@@ -8,7 +8,7 @@ nav_order: 3
 
 Co je potřeba doložit. Odškrtávej `- [x]`, doplňuj stav a kde dokument je.
 
-Podklady zpracovává / kompletuje **Consultora** → [Consultora — spolupráce](../03-specialiste/consultora.html).
+Podklady zpracovává / kompletuje **Consultora** → [Consultora — spolupráce](../07-specialiste/consultora.html).
 
 ## Před žádostí
 - [ ] Energetická studie (Fáze 0) — _Consultora, Ing. Vitouš; dům zaměřen, čeká se na výstup_
