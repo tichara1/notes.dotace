@@ -49,6 +49,15 @@ z 2. pol. 2025 (dražší silová elektřina a poplatek za OZE)._
 | Služby Consultora | 110 000 | 90 000 | — | — | — | Fáze 3+4 (20 000) z vlastních |
 | Rezerva 5 % | 51 000 / 78 000 | 0 | — | — | — | z vlastních |
 
+## Hodnota nemovitosti
+
+Interaktivní model počítá i s tím, že rekonstrukce zvedne tržní hodnotu domu: dokončí se neomítnutá fasáda,
+zlepší se energetická třída (podle evropských studií 2–5 % ceny za třídu) a přibude FVE. Výchozí předpoklad je
+navýšení **+6 % (A)** a **+8 % (B)** a růst cen nemovitostí **3 % ročně** (Středočeský kraj 2023 +1,7 %, 2024 +2,4 %,
+dlouhodobě 2015–2024 ~10 % ročně, [ČSÚ](https://csu.gov.cz/stc/ceny-nemovitosti-ve-stredoceskem-kraji-v-letech-2022-2024)).
+Při těchto předpokladech navýšení hodnoty za 15 let **převýší výdaje navíc** (vlastní zdroje + splátky − úspora energií)
+v obou variantách. Konkrétní odhad ceny domu je jen v soukromém artefaktu, na veřejný web nepatří.
+
 ## Citlivost
 
 | Co se změní | Dopad |
