@@ -85,6 +85,8 @@ Jednotkové částky = **maximální výše úvěru** na jednotku (nikdy ne víc
   U výplní: okna/bal. dveře **Uw ≤ 0,90**, střešní okna Uw ≤ 1,0, vchodové dveře
   **UD ≤ 1,2** (3.1.2). **Řízené větrání není u stávající stavby povinné** (povinné
   je jen u novostavby na místě odstraněného RD).
+- **Barva fasády** ze **vzorníku NCS** programu (odchylka ΔE ≤ 5), pokud ji nenavrhne
+  autorizovaný architekt (3.1.2 d).
 
 ### Oblast C — Zdroje energie (kap. 3.2)
 
@@ -146,6 +148,12 @@ Jednotkové částky = **maximální výše úvěru** na jednotku (nikdy ne víc
 2. Posouzení přijatelnosti → **Rozhodnutí ministra** (stanoví max. výši úvěru).
 3. **Smlouva o úvěru** u vybrané banky — nejpozději do 12 měsíců od Rozhodnutí.
 4. Realizace → **doložení dokončení** přes AIS (do 36 měs., nejpozději 31. 12. 2031).
+
+> **Čerpání úvěru** (Výzva č. 1/2026/NZÚ FN pro banky, 16. 9. 2026): čerpat lze **až po
+> předložení Rozhodnutí ministra** a do **3 let** od něj. Jestli najednou, nebo postupně,
+> určuje banka. Když doložené výdaje vyjdou nižší než úvěr, kompenzace se krátí a úroky
+> z rozdílu platí žadatel. Změny parametrů opatření se hlásí SFŽP přes AIS (9.1 c),
+> výše úvěru se po podání **nezvyšuje** (9.2 f). Detail → [Consultora — ověření](../07-specialiste/consultora-overeni.html).
 
 ## Na co si dát pozor
 
