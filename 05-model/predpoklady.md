@@ -15,7 +15,7 @@ nav_order: 1
 | Mezní cena elektřiny pro úspory (Kč/kWh vč. DPH) | VT ~6,16 / NT ~3,58 (vážený ~5,48) | ceny 2026 z vyúčtování → [Ceny pro model](../03-energie/vyuctovani.html#ceny-pro-model) | dopočteno; stálé platby ~429 Kč/měs. zvlášť |
 | Cena plynu (Kč/kWh, vč. DPH a stálých plateb) | ~1,73 | průměr 2025/26 (37 388 kWh, 64 850 Kč) → [Vyúčtování](../03-energie/vyuctovani.html) | fixace do 15. 11. 2027 |
 | Mezní cena plynu pro úspory (Kč/kWh vč. DPH) | ~1,54 | ceny 2026 z vyúčtování → [Ceny pro model](../03-energie/vyuctovani.html#ceny-pro-model) | dopočteno; stálé platby ~568 Kč/měs. zůstávají |
-| Roční spotřeba plynu (kWh) | ~35 500–37 400 (vytápění ~32 500–34 500) | vyúčtování 2023/24–2025/26 → [Vyúčtování](../03-energie/vyuctovani.html) | rozdělení vytápění / TUV je odhad z letních měsíců |
+| Roční spotřeba plynu (kWh) | **38 072** = průměr 2021/22–2025/26 (rozpětí 35 528–42 567; vytápění ≈ 34 700) | vyúčtování 2021/22–2025/26 → [Vyúčtování](../03-energie/vyuctovani.html) | rozdělení vytápění / TUV je odhad z letních měsíců |
 | Roční spotřeba elektřiny (kWh) | ~6 300 | vyúčtování 2025/26 | bez EV |
 | Výkupní cena přetoků FVE (Kč/kWh) | ~0,8 | odhad (spotové výkupy 2026) | kolísá 0–1,5; v poledne i nulová |
 | Roční růst cen energií (%) | 2 | volba modelu 14. 10. 2026 | scénáře: nízký / střední / vysoký |
