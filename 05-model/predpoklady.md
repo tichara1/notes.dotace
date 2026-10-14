@@ -11,8 +11,12 @@ nav_order: 1
 
 | Předpoklad | Hodnota | Zdroj | Nejistota / poznámka |
 |------------|---------|-------|----------------------|
-| Cena elektřiny (Kč/kWh, vč. DPH a stálých plateb) | ~7,96 | faktura 2024/25 → [Vyúčtování](../03-energie/vyuctovani.html) | závisí na fixaci |
-| Cena plynu (Kč/kWh, vč. DPH a stálých plateb) | ~1,84 | faktura 2024/25 → [Vyúčtování](../03-energie/vyuctovani.html) | závisí na fixaci |
+| Cena elektřiny (Kč/kWh, vč. DPH a stálých plateb) | ~6,72 | průměr 2025/26 (6 338 kWh, 42 580 Kč) → [Vyúčtování](../03-energie/vyuctovani.html) | fixace do 15. 11. 2027; 2024/25 bylo 7,96 |
+| Mezní cena elektřiny pro úspory (Kč/kWh vč. DPH) | VT ~6,16 / NT ~3,58 (vážený ~5,48) | ceny 2026 z vyúčtování → [Ceny pro model](../03-energie/vyuctovani.html#ceny-pro-model) | dopočteno; stálé platby ~429 Kč/měs. zvlášť |
+| Cena plynu (Kč/kWh, vč. DPH a stálých plateb) | ~1,73 | průměr 2025/26 (37 388 kWh, 64 850 Kč) → [Vyúčtování](../03-energie/vyuctovani.html) | fixace do 15. 11. 2027 |
+| Mezní cena plynu pro úspory (Kč/kWh vč. DPH) | ~1,54 | ceny 2026 z vyúčtování → [Ceny pro model](../03-energie/vyuctovani.html#ceny-pro-model) | dopočteno; stálé platby ~568 Kč/měs. zůstávají |
+| Roční spotřeba plynu (kWh) | ~35 500–37 400 (vytápění ~32 500–34 500) | vyúčtování 2023/24–2025/26 → [Vyúčtování](../03-energie/vyuctovani.html) | rozdělení vytápění / TUV je odhad z letních měsíců |
+| Roční spotřeba elektřiny (kWh) | ~6 300 | vyúčtování 2025/26 | bez EV |
 | Výkupní cena přetoků FVE (Kč/kWh) | | | |
 | Roční růst cen energií (%) | | | scénáře: nízký / střední / vysoký |
 | Roční výroba FVE (kWh/kWp) | | | orientace a sklon střechy |

@@ -49,6 +49,10 @@ nav_order: 11
 | Elektřina | 25. 6. 2024 – 26. 6. 2025 (rok) | 5 931 kWh (VT 4 435 / NT 1 496) | 47 185,35 Kč | **~7,96 Kč/kWh** |
 | Plyn | 16. 12. 2024 – 3. 9. 2025 (261 dní) | 24 050,35 kWh (2 201,75 m³) | 44 284,76 Kč | **~1,84 Kč/kWh** |
 
+> 🔄 **Aktualizace 14. 10. 2026:** z kompletních vyúčtování 2021–2026 je skutečná roční spotřeba plynu
+> **35,5–37,4 MWh** (ne ~30 MWh) a náklady na energie za 2025/26 **≈ 107 000 Kč** (elektřina ~42,6 tis.,
+> plyn ~64,8 tis.) → [Vyúčtování elektřiny a plynu](03-energie/vyuctovani.html). Původní odhad níže ponechán.
+
 - **Roční spotřeba plynu (odhad):** ~30 MWh (lineární přepočet 261 dní = ~33,6 MWh **nadhodnocuje**, období je zimou vážené). → **roční náklad na plyn ~52 000–58 000 Kč** (orientačně).
 - **Roční náklad na energie (základ pro % úsporu):** elektřina 47 185 Kč + plyn ~55 000 Kč ≈ **~100 000 Kč/rok**.
 - **Auto:** 25 000 km/rok → EV ~4 000–5 000 kWh/rok; benzín ~66 000 Kč/rok (7 l/100 km × 38 Kč/l).

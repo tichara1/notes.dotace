@@ -43,7 +43,7 @@ nav_order: 1
 | Otopná soustava | | | | radiátory / podlahovka? |
 | Ohřev teplé vody | plyn | | | |
 | Větrání | přirozené (bez rekuperace) | | | |
-| Elektro — jistič, distribuční sazba | | | | viz [Vyúčtování](../03-energie/vyuctovani.html) |
+| Elektro — jistič, distribuční sazba | jistič 3 × 20 A, sazba D25d („Aku 8“, 8 h NT) | | | z vyúčtování → [Vyúčtování](../03-energie/vyuctovani.html) |
 | Střecha pro FVE | využitelná plocha ~40 m² | | | ověřit |
 | Jímka (pro retenci) | | objem: | | jen na zálivku |
 
