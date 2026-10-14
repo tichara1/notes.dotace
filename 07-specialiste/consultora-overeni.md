@@ -7,14 +7,14 @@ nav_order: 3
 # Consultora s.r.o. — ověření nabídky a e-mailů
 
 > **Ověřeno 14. 10. 2026.** Kontrola tvrzení z nabídky *„NZÚ Bezúročný úvěr – komplexní
-> opatření, RD do 300 m²"* (27. 8. 2026) a z e-mailů s Janem Škodou (1. 9. a 11. 9. 2026)
+> opatření, RD do 300 m²"* (27. 8. 2026) a z e-mailů s Janem Škodou (27. 8., 1. 9. a 11. 9. 2026)
 > proti primárním zdrojům.
 >
 > **Zdroje:**
 > - **[ZP]** *Závazné pokyny NZÚ RD – Bezúročný úvěr*, verze 1.1 (na webu vedená jako
 >   verze 2), **platná od 24. 6. 2026**, stále aktuální k 14. 10. 2026
 >   ([přehled verzí](https://novazelenausporam.cz/dokument/5114); PDF v repu
->   `docs/NZU/`). Souhrn → [Závazné pokyny (úvěr)](../02-dotace/zavazne-pokyny-uver.html).
+>   `docs/NZU/`). Souhrn → [Závazné pokyny (úvěr)](../06-dotace/zavazne-pokyny-uver.html).
 > - **[Výzva FN]** *Výzva č. 1/2026/NZÚ FN* pro banky a spořitelny, 16. 9. 2026
 >   ([PDF](https://novazelenausporam.cz/files/documents/storage/2026/09/16/1789562687_V%C3%BDzva_NZ%C3%9A_1_2026_FN.pdf)).
 > - **[SFŽP OTD]** odpověď SFŽP k náplni odborného technického dozoru, 5. 6. 2026
@@ -46,11 +46,11 @@ nav_order: 3
 | 14 | Kontrola na místě u **5 % případů**, kde se kontrolují faktury | ❓ | ZP kap. 10, 7.1 j) | Číslo 5 % v pokynech **není** (může jít o interní praxi SFŽP). Závazné je, že Fond smí kontrolovat **kdykoli až do konce 5leté udržitelnosti** a originály faktur a dokladů o platbě musíte celou dobu uchovat. |
 | 15 | Faktury se do AIS **nedokládají** | ✅ | ZP 4.3; SFŽP OTD | Ve výčtu dokladů k doložení realizace faktury nejsou. Banka ale může chtít **doložit využití peněz** (Buřinka). |
 | 16 | Dům z roku **2009** je oprávněný | ✅ | ZP 3.1.2 b); 3.2 a) | Zateplení jen pro budovy kolaudované **před 1. 7. 2013**, FVE před 1. 1. 2023. Rozhoduje datum v **RÚIAN / katastru**. Pokud tam neodpovídá, dokládá se kolaudace. |
-| 17 | Předschválené **2 mil. Kč u ČSOB loni** | ❓ | MPSS Q&A Q5, Q8, Q17; ZP 2.3 g)–h) | Loňské předschválení **nemá právní účinek**. Úvěr jde sjednat až s Rozhodnutím ministra a banka bonitu posoudí znovu. ČSOB 16. 9. 2026 oznámila, že nabídku teprve připravuje. Viz [níže](#predschvaleni-csob). |
+| 17 | Loňské **předschválení úvěru** v bance | ❓ | MPSS Q&A Q5, Q8, Q17; ZP 2.3 g)–h) | Loňské předschválení **nemá právní účinek**. Úvěr jde sjednat až s Rozhodnutím ministra a banka bonitu posoudí znovu. Některé banky (např. ČSOB k 16. 9. 2026) nabídku teprve připravovaly. Viz [níže](#predschvaleni). |
 | 18 | Úpravy PD ~5 tis., EH ~10 tis., drobné/lepší změny není třeba | ✅ | ZP 9.2 b) | Pokyny připouštějí změny, pokud zůstanou splněné podmínky. Podle charakteru změny může SFŽP aktualizaci posudku a PD vyžádat. Ceny jsou ceny Consultory, ne pravidlo programu. |
 
-## Loňské předschválení u ČSOB
-{: #predschvaleni-csob}
+## Loňské předschválení úvěru
+{: #predschvaleni}
 
 - Loni (2025) běžel jiný produkt: *výhodný úvěr k dotaci NZÚ* přes stavební spořitelny,
   s úrokem kolem 3 % a vázaný na přímou dotaci
@@ -121,5 +121,5 @@ z ceníků na webu, ne z poptávky na náš dům.
 
 ## Související
 
-- [Consultora — spolupráce](consultora.html) · [Závazné pokyny (úvěr)](../02-dotace/zavazne-pokyny-uver.html)
-  · [Financování](../02-dotace/financovani.html) · [Deník](../06-dokumenty/deniky-a-dokumenty.html)
+- [Consultora — spolupráce](consultora.html) · [Závazné pokyny (úvěr)](../06-dotace/zavazne-pokyny-uver.html)
+  · [Financování](../06-dotace/financovani.html) · [Deník](../10-dokumenty/deniky-a-dokumenty.html)

@@ -7,7 +7,7 @@ nav_order: 4
 # Energetičtí specialisté (PENB) – okres Kladno / dojezd Dřetovic
 
 > 🗄️ **Archiv (14. 10. 2026):** výběr specialisty je uzavřený — spolupracujeme s
-> **Consultora s.r.o.** → [Consultora — spolupráce](../03-specialiste/consultora.html).
+> **Consultora s.r.o.** → [Consultora — spolupráce](../07-specialiste/consultora.html).
 > Stránka zůstává jen pro historii.
 
 > Zdroj: oficiální rejstřík **MPO-ENEX** (https://www.mpo-enex.cz/experti/ExpertList.aspx), filtr Středočeský kraj + oprávnění PENB.

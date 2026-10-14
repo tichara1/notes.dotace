@@ -1,6 +1,6 @@
 ---
 title: Archiv
-nav_order: 8
+nav_order: 12
 has_children: true
 ---
 
@@ -12,7 +12,7 @@ pro historii a dohledání. Aktuální stav je na [úvodní stránce](../index.h
 ## Výběr energetického specialisty (květen–září 2026)
 
 Uzavřeno: vybrali jsme **Consultora s.r.o.** (Fáze 0 objednána 11. 9. 2026) →
-[Consultora — spolupráce](../03-specialiste/consultora.html).
+[Consultora — spolupráce](../07-specialiste/consultora.html).
 
 - [TOP 10 poradců (z úvodu)](top10-poradci.html) — původní žebříček a krok „oslovit poradce" z úvodní stránky
 - [Oslovené kontakty](oslovene-kontakty.html) — koho jsme 19. 7. 2026 oslovili a s jakým výsledkem

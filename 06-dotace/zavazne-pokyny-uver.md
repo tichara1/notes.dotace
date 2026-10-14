@@ -153,7 +153,7 @@ Jednotkové částky = **maximální výše úvěru** na jednotku (nikdy ne víc
 > předložení Rozhodnutí ministra** a do **3 let** od něj. Jestli najednou, nebo postupně,
 > určuje banka. Když doložené výdaje vyjdou nižší než úvěr, kompenzace se krátí a úroky
 > z rozdílu platí žadatel. Změny parametrů opatření se hlásí SFŽP přes AIS (9.1 c),
-> výše úvěru se po podání **nezvyšuje** (9.2 f). Detail → [Consultora — ověření](../03-specialiste/consultora-overeni.html).
+> výše úvěru se po podání **nezvyšuje** (9.2 f). Detail → [Consultora — ověření](../07-specialiste/consultora-overeni.html).
 
 ## Na co si dát pozor
 

@@ -8,6 +8,8 @@ nav_order: 1
 
 > Rozsah vychází z [Rešerše, sekce 0](../reserse-nzu-2026.html).
 > Ceny a propočty jsou **orientační**; finální čísla podle nabídek a PENB.
+> Podrobné podklady → [Dům](../02-dum/index.html); konkrétní návrh po Fázi 0 →
+> [Varianty opatření](../04-opatreni/varianty.html).
 
 ## Proč to děláme
 - **Úspora energií** — elektřina je drahá (~7,96 Kč/kWh) → FVE je ekonomicky
@@ -28,7 +30,7 @@ Dům: RD, kolaudace **2009**, Porotherm **bez zateplení**, obec u Dřetovic (ok
 | Fotovoltaika | Není | FVE ~8 kWp + baterie ~10 kWh (střecha ~40 m²) | **must** (OZE pro komplexní renovaci); Consultora radí dát do žádosti spíš menší výkon |
 | Rekuperace / větrání | Není | Neplánuje se | — |
 | Ohřev vody | Plyn | Z přebytků FVE | nice |
-| Ostatní | — | Wallbox + EV; retenční nádrž z jímky (jen zálivka) | nice — nádrž dle Consultory pro zálivku do projektu řešit netřeba |
+| Ostatní | — | Wallbox + EV; retenční nádrž z jímky (jen zálivka) | nice — nádrž **jen na zálivku z úvěru nejde** (D.2 vyžaduje WC), hradit z vlastních nebo vynechat |
 
 ## Must-have vs nice-to-have
 - **Musí být:** zateplení fasády, oprava izolace střechy (kvůli třídě C), FVE + baterie (OZE).
@@ -42,9 +44,9 @@ Dům: RD, kolaudace **2009**, Porotherm **bez zateplení**, obec u Dřetovic (ok
 - **D.2 (voda)** lze podpořit jen v kombinaci se zateplením (A) nebo zdroji (C).
 
 ## Otevřené otázky
-- [ ] **Okna ano / ne** — podle variant z Fáze 0 ([Consultora](../03-specialiste/consultora.html))
+- [ ] **Okna ano / ne** — podle variant z Fáze 0 ([Consultora](../07-specialiste/consultora.html))
 - [ ] Potvrdit využitelnou plochu střechy pro FVE (~40 m²)
 - [ ] Nárok na garážové otvory (mimo vytápěnou obálku) — ověřit s projektantem
 - [x] ~~Jak wallbox vstupuje do výpočtu max. úvěru~~ — **ověřeno u SFŽP:** je způsobilý
       výdaj v rámci stropu FVE (400 tis.), **bez vlastní sazby**; nezvyšuje strop
-      (viz [Závazné pokyny — souhrn](../02-dotace/zavazne-pokyny-uver.html))
+      (viz [Závazné pokyny — souhrn](../06-dotace/zavazne-pokyny-uver.html))
