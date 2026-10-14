@@ -17,6 +17,7 @@ opatření ušetří.
 **Ve zkratce (poslední rok):** elektřina **6 338 kWh / ≈ 42 600 Kč** (≈ 3 550 Kč/měs.),
 plyn **37 388 kWh / ≈ 64 850 Kč** (≈ 5 400 Kč/měs.), dohromady **≈ 107 000 Kč/rok**.
 Obojí innogy, produkt Optimal 36 s fixací do **15. 11. 2027**.
+Jak se spotřeba vyvíjí rok po roku → [Vývoj roční spotřeby](vyuctovani.html#vyvoj-spotreby).
 
 ## Jak doplňovat
 

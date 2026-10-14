@@ -34,6 +34,44 @@ has_children: true
 > ℹ️ „Sleva z platby za spotřebu“ na dokladech od 12/2024 vychází přesně na **10 % ceny silové
 > elektřiny** a **20 % ceny plynu (komodity)** — dopočteno z dokladů, dodavatel to výslovně neuvádí.
 
+## Vývoj roční spotřeby
+{: #vyvoj-spotreby}
+
+Roky podle zúčtovacích období: elektřina červen–červen, plyn září–září. Změna = proti předchozímu roku.
+
+| Rok | Elektřina (kWh) | Změna | Plyn (kWh) | Změna | Elektřina (Kč) | Změna | Plyn (Kč) | Změna |
+|-----|----------------:|------:|-----------:|------:|---------------:|------:|----------:|------:|
+| 2021/22 | 5 682 | — | 42 567 | — | 25 474 | — | 52 394 | — |
+| 2022/23 | 5 590 | ▼ −1,6 % | 39 299 | ▼ −7,7 % | 23 117 | ▼ −9,3 % | 86 455 | ▲ +65,0 % |
+| 2023/24 | 5 578 | ▼ −0,2 % | 35 528 | ▼ −9,6 % | 41 334 | ▲ +78,8 % | 103 139 | ▲ +19,3 % |
+| 2024/25 | 5 931 | ▲ +6,3 % | 35 579 | ▲ +0,1 % | 47 185 | ▲ +14,2 % | 75 505 | ▼ −26,8 % |
+| 2025/26 | 6 338 | ▲ +6,9 % | 37 388 | ▲ +5,1 % | 42 580 | ▼ −9,8 % | 64 850 | ▼ −14,1 % |
+| **2025/26 vs. 2021/22** | | **▲ +11,5 %** | | **▼ −12,2 %** | | **▲ +67,2 %** | | **▲ +23,8 %** |
+
+**Co z toho plyne:** spotřeba **elektřiny** byla do roku 2023/24 stabilní (~5,6 MWh) a poslední dva roky
+roste zhruba o 6–7 % ročně. Spotřeba **plynu** do 2023/24 klesala (−16,5 % za dva roky), od té doby mírně
+roste. Náklady se hýbaly hlavně s cenami (konec fixací 2023, cenový strop), ne se spotřebou. Proč se
+spotřeba mění, doklady neříkají (teploty zim ani změny v domácnosti v nich nejsou).
+
+```mermaid
+xychart-beta
+    title "Plyn - rocni spotreba (kWh)"
+    x-axis ["2021/22", "2022/23", "2023/24", "2024/25", "2025/26"]
+    y-axis "kWh" 0 --> 45000
+    bar [42567, 39299, 35528, 35579, 37388]
+```
+
+```mermaid
+xychart-beta
+    title "Elektrina - rocni spotreba (kWh)"
+    x-axis ["2021/22", "2022/23", "2023/24", "2024/25", "2025/26"]
+    y-axis "kWh" 0 --> 7000
+    bar [5682, 5590, 5578, 5931, 6338]
+```
+
+_Plyn 2024/25 a 2025/26 a elektřina 2025/26 jsou součty dvou navazujících dokladů. Plyn 2024/25 nezahrnuje
+14.–15. 12. 2024 (jiný obchodník, ~27 m³)._
+
 ## Elektřina
 
 | Období | Dní | VT (kWh) | NT (kWh) | Celkem (kWh) | Vč. DPH (Kč) | Kč/měs. | Kč/kWh | Výsledek | Detail |
