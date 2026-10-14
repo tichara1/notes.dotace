@@ -9,6 +9,7 @@ nav_order: 10
 
 | Datum | S kým / čeho se týká | Co se domluvilo | Další krok |
 |-------|----------------------|-----------------|------------|
+| 14. 10. 2026 | Ověření nabídky Consultory | Tvrzení zkontrolována proti pokynům; rozdíly u nádrže, FVE, faktur, čerpání → [ověření](../07-specialiste/consultora-overeni.html) | Doptat se Consultory |
 | do 14. 10. 2026 | Ing. Vitouš (Consultora) — Fáze 0 | Dům zaměřen; počítá varianty **s okny / bez oken** | Čekáme na výstup Fáze 0 |
 | 11. 9. 2026 | Jan Škoda (Consultora) | Potvrdil objednávku Fáze 0; ozve se Ing. Vitouš kvůli prohlídce | Domluvit prohlídku |
 | 11. 9. 2026 | → Consultora | **Objednali jsme Fázi 0**; zmínili loňské předschválení úvěru (před změnou podmínek) | Čekat na Ing. Vitouše |

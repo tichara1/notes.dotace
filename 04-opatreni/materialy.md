@@ -12,6 +12,9 @@ nav_order: 2
 
 ## Zateplení fasády
 
+> Barva fasády musí být ze **vzorníku NCS** programu (odchylka ΔE ≤ 5), pokud ji nenavrhne
+> autorizovaný architekt ([ověření](../07-specialiste/consultora-overeni.html)).
+
 | Materiál | Tloušťka (mm) | λ (W/mK) | Výsledné U (W/m²K) | Cena (Kč/m², systém) | Plusy | Minusy | Zdroj / datum |
 |----------|--------------:|---------:|-------------------:|---------------------:|-------|--------|---------------|
 | EPS (šedý / bílý) | | | | | | | |
@@ -19,6 +22,8 @@ nav_order: 2
 | | | | | | | | |
 
 ## Okna a dveře
+
+> Požadavek: **Uw ≤ 0,90 W/m²K**, vchodové dveře **UD ≤ 1,2 W/m²K**, montáž dle ČSN 74 6077.
 
 | Výrobce / profil | Materiál | Zasklení | Uw (W/m²K) | Cena (Kč/m²) | Plusy | Minusy | Zdroj / datum |
 |------------------|----------|----------|-----------:|-------------:|-------|--------|---------------|

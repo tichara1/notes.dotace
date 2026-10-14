@@ -32,10 +32,10 @@ Podklady zpracovává / kompletuje **Consultora** → [Consultora — spoluprác
 - [ ] Manuál / checklist fotodokumentace od Consultory (slíbili před zahájením prací)
 - [ ] Průběžné fotky — izolanty a konstrukce **před zakrytím**
 - [ ] Faktury + **soupisy provedených prací** průběžně ke kontrole Consultoře
-- [ ] Změny oproti PD poslat Consultoře **předem** k prověření
+- [ ] Změny oproti PD poslat Consultoře **předem** k prověření; změnu parametrů (např. výkon FVE) **oznámit SFŽP přes AIS**
 
 ## Po realizaci (čerpání)
-- [ ] Faktury a doklady o úhradě (min. ve výši úvěru)
+- [ ] Faktury a doklady o úhradě — **u každého opatření min. ve výši jeho úvěru**; originály uchovat po celou 5letou udržitelnost
 - [ ] Předávací protokol
 - [ ] Fotodokumentace po realizaci
 - [ ] FVE: protokol o zapojení + revize od dodavatele

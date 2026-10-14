@@ -15,11 +15,11 @@ nav_order: 1
 |----------|---------------------|-----------------------|---------------------|-------|
 | Zateplení fasády | | | U ≤ | Fáze 0 |
 | Střecha (oprava izolace) | | | U ≤ | Fáze 0 |
-| Výměna oken a dveří | ✓ | ✗ | Uw ≤ | Fáze 0 |
-| FVE + baterie | | | kWp / kWh | Fáze 0 |
+| Výměna oken a dveří | ✓ | ✗ | Uw ≤ 0,90 (okna, balk. dveře), UD ≤ 1,2 (vchodové dveře) | [ověření](../07-specialiste/consultora-overeni.html), ZP 3.1.2 |
+| FVE + baterie | | | min. 3 kWp, 3fázově, baterie kWh ≥ kWp | Fáze 0 |
 | Wallbox | | | | |
-| Retenční nádrž (zálivka) | | | | |
-| **Splní podmínky komplexní renovace?** | | | | Fáze 0 |
+| Retenční nádrž (zálivka) | | | jen zálivka → **z úvěru nejde** (D.2 vyžaduje WC) | [ověření](../07-specialiste/consultora-overeni.html) |
+| **Splní podmínky komplexní renovace?** (třída C obálky i EpN, snížení ≥ 30 % dodané i primární energie) | | | | Fáze 0 |
 | **Odhad výše úvěru (Kč)** | | | | Fáze 0 |
 | **Odhad nákladů (Kč)** | | | | [Rozpočet](../09-rozpocet/rozpocet.html) |
 

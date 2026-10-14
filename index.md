@@ -27,8 +27,10 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
 > naše čísla (limity úvěru, splatnosti, sazby) **sedí**. Souhrn →
 > [Závazné pokyny (úvěr)](06-dotace/zavazne-pokyny-uver.html).
 >
-> ⏳ **Tvrzení Consultory** (čerpání úvěru, co jde z úvěru, FVE, lhůty…) se **ověřují** —
-> výsledky se doplní do [tabulky tvrzení](07-specialiste/consultora.html).
+> 🔎 **Tvrzení Consultory ověřena 14. 10. 2026** → [ověření nabídky](07-specialiste/consultora-overeni.html).
+> Hlavní rozdíly: nádrž **jen na zálivku z úvěru nejde** (D.2 chce WC), změnu výkonu FVE
+> je nutné **hlásit SFŽP přes AIS**, faktury ≥ úvěr platí **u každého opatření zvlášť**,
+> čerpání najednou dopředu **není zaručené** a loňské předschválení úvěru **neplatí**.
 
 ## ✅ Co je teď potřeba (další kroky)
 
@@ -44,7 +46,11 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
 - [ ] **Potvrdit Consultoře Fáze 1–4** (+ technický dozor) — nabídka platí jen do
       **~26. 10. 2026**; pokud to nestihneme, požádat o prodloužení
 - [ ] Zřídit **bankovní identitu / eIdentitu** (podmínka plné moci pro Consultoru)
-- [ ] Domluvit **prověření bonity** (přes poradce banky od Consultory, nebo sami)
+- [ ] Domluvit **prověření bonity** znovu (loňské předschválení nemá účinek) — přes poradce
+      banky od Consultory, nebo sami
+- [ ] **Doptat se Consultory** na body z ověření (čerpání, Fáze 0 z úvěru, osobní návštěvy
+      dozoru, hlášení změny FVE, nádrž, barva fasády NCS…) →
+      [seznam otázek](07-specialiste/consultora-overeni.html#otazky)
 - [ ] Doplnit **podklady pro model**: novější [vyúčtování elektřiny a plynu](03-energie/vyuctovani.html)
       a chybějící [parametry domu](02-dum/parametry-domu.html); po Fázi 0 přepsat
       [varianty opatření](04-opatreni/varianty.html)
@@ -57,7 +63,7 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
 | Kdo | K čemu | Telefon | E-mail |
 |-----|--------|---------|--------|
 | **Ing. Jan Vitouš** (Consultora) | Fáze 0 — výstup studie, varianty s okny / bez | 720 348 522 | vitousja@gmail.com |
-| **Jan Škoda** (Consultora, jednatel) | smlouva na Fáze 1–4, nabídka, bonita, plná moc | 608 913 596 | jan.skoda@consultora.cz |
+| **Jan Škoda** (Consultora, jednatel) | smlouva na Fáze 1–4, nabídka, bonita, plná moc, otázky z ověření | 608 913 596 | jan.skoda@consultora.cz |
 
 Nabídka, ceny a co Consultora tvrdí → [Consultora — spolupráce](07-specialiste/consultora.html).
 Původní žebříček TOP 10 poradců → [Archiv](archiv/top10-poradci.html).

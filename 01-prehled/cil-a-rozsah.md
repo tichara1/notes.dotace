@@ -30,7 +30,7 @@ Dům: RD, kolaudace **2009**, Porotherm **bez zateplení**, obec u Dřetovic (ok
 | Fotovoltaika | Není | FVE ~8 kWp + baterie ~10 kWh (střecha ~40 m²) | **must** (OZE pro komplexní renovaci); Consultora radí dát do žádosti spíš menší výkon |
 | Rekuperace / větrání | Není | Neplánuje se | — |
 | Ohřev vody | Plyn | Z přebytků FVE | nice |
-| Ostatní | — | Wallbox + EV; retenční nádrž z jímky (jen zálivka) | nice — nádrž dle Consultory pro zálivku do projektu řešit netřeba |
+| Ostatní | — | Wallbox + EV; retenční nádrž z jímky (jen zálivka) | nice — nádrž **jen na zálivku z úvěru nejde** (D.2 vyžaduje WC), hradit z vlastních nebo vynechat |
 
 ## Must-have vs nice-to-have
 - **Musí být:** zateplení fasády, oprava izolace střechy (kvůli třídě C), FVE + baterie (OZE).
