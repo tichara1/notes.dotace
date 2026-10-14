@@ -68,28 +68,44 @@ Odpovědi z e-mailů 27. 8. a 1. 9. 2026.
 
 | # | Téma | Co Consultora uvedla | Ověření |
 |---|------|----------------------|---------|
-| 1 | Čerpání úvěru | Záleží na podmínkách spořitelny, která úvěr vyplácí. „Doposud se čerpalo najednou dopředu." | ⏳ |
-| 2 | Služby z úvěru | Všechny služby (Fáze 0–4 i TDI) jsou uznatelný náklad **kromě administrativy** (podání a doložení). | ⏳ |
-| 3 | Návrhový výkon FVE | Určí ze zkušeností; do výpočtu žádosti je lepší dát **menší výkon**, pokud to nemá vliv na výši úvěru. | ⏳ |
-| 4 | Odchylka výkonu FVE při montáži | Pokud je výkon **větší**, vždy stačilo uvést to ve zprávě TDI. (Menší výkon nekomentovali.) | ⏳ |
-| 5 | Retenční nádrž z jímky | Není v ceně Fáze 1; pro **pouhou zálivku** to není nutné řešit. | ⏳ |
-| 6 | Technický dozor (TDI) | Probíhá na základě faktur, soupisů prací, fotek a závěrečné kontroly; objednat lze až po schválení / během realizace. | ⏳ |
-| 7 | Změny během stavby | Drobné změny nebo změny k lepšímu oproti PD aktualizaci nepotřebují; jinak dodatek PD ~5 tis., aktualizace EH ~10 tis. Odchylky od PD poslat **předem** k prověření — nesmí ohrozit minimální úspory dle EH. | ⏳ |
-| 8 | Fotodokumentace | Před zahájením prací pošlou manuál / checklist, co fotit. | ⏳ |
-| 9 | Výše úvěru | Závisí na rozsahu opatření; strop **2 mil. Kč / objekt**; faktury musí být **min. ve výši úvěru**. | ⏳ |
-| 10 | Uznatelnost faktur | Max. **12 měsíců zpětně** před podáním žádosti. | ⏳ |
-| 11 | Lhůta na realizaci | **36 měsíců** od schválení žádosti SFŽP na doložení dokladů. | ⏳ |
-| 12 | Materiály | Musí splnit parametry z PD a EH; dokládá se certifikáty výrobce (vyžádá si je Consultora). | ⏳ |
-| 13 | Kontrola na místě | Faktury a soupisy se do AIS nedokládají, ale musí být správně; kontrolou na místě prochází **5 %** případů. | ⏳ |
-| 14 | Postup k úvěru | Po schválení žádosti dostaneme **Kladné rozhodnutí ministra** a s ním žádáme o úvěr v bance / spořitelně. | ⏳ |
-| 15 | Zastupování | Plná moc jen pro dotační program; podmínkou je **bankovní identita / eIdentita** žadatele. | ⏳ |
+| 1 | Čerpání úvěru | Záleží na podmínkách spořitelny, která úvěr vyplácí. „Doposud se čerpalo najednou dopředu." | ❓ způsob čerpání určuje banka; čerpat až po Rozhodnutí ministra, do 3 let |
+| 2 | Služby z úvěru | Všechny služby (Fáze 0–4 i TDI) jsou uznatelný náklad **kromě administrativy** (podání a doložení). | ✅ projekt, EH, TDI ano; podání/doložení ne · ❓ Fáze 0 |
+| 3 | Návrhový výkon FVE | Určí ze zkušeností; do výpočtu žádosti je lepší dát **menší výkon**, pokud to nemá vliv na výši úvěru. | ✅ rozumné — vyšší výkon úvěr nezvýší |
+| 4 | Odchylka výkonu FVE při montáži | Pokud je výkon **větší**, vždy stačilo uvést to ve zprávě TDI. (Menší výkon nekomentovali.) | ⚠️ změnu hlásit SFŽP přes AIS; úvěr se nezvyšuje, menší výkon ho sníží |
+| 5 | Retenční nádrž z jímky | Není v ceně Fáze 1; pro **pouhou zálivku** to není nutné řešit. | ⚠️ čistě zálivka z úvěru **nejde** (D.2 vyžaduje WC) |
+| 6 | Technický dozor (TDI) | Probíhá na základě faktur, soupisů prací, fotek a závěrečné kontroly; objednat lze až po schválení / během realizace. | ✅ TDI povinný · ❓ distanční výkon pokyny neřeší |
+| 7 | Změny během stavby | Drobné změny nebo změny k lepšímu oproti PD aktualizaci nepotřebují; jinak dodatek PD ~5 tis., aktualizace EH ~10 tis. Odchylky od PD poslat **předem** k prověření — nesmí ohrozit minimální úspory dle EH. | ✅ změny přípustné, SFŽP může chtít aktualizaci (9.2 b) |
+| 8 | Fotodokumentace | Před zahájením prací pošlou manuál / checklist, co fotit. | — (služba firmy) |
+| 9 | Výše úvěru | Závisí na rozsahu opatření; strop **2 mil. Kč / objekt**; faktury musí být **min. ve výši úvěru**. | ✅ 2 mil. Kč · ⚠️ faktury ≥ úvěr **po opatřeních** |
+| 10 | Uznatelnost faktur | Max. **12 měsíců zpětně** před podáním žádosti. | ✅ (realizováno i uhrazeno, vč. záloh) |
+| 11 | Lhůta na realizaci | **36 měsíců** od schválení žádosti SFŽP na doložení dokladů. | ⚠️ od Rozhodnutí ministra, max. do 31. 12. 2031 |
+| 12 | Materiály | Musí splnit parametry z PD a EH; dokládá se certifikáty výrobce (vyžádá si je Consultora). | ✅ (doklady k výrobkům mimo SVT) |
+| 13 | Kontrola na místě | Faktury a soupisy se do AIS nedokládají, ale musí být správně; kontrolou na místě prochází **5 %** případů. | ✅ faktury do AIS ne · ❓ „5 %“ v pokynech není |
+| 14 | Postup k úvěru | Po schválení žádosti dostaneme **Kladné rozhodnutí ministra** a s ním žádáme o úvěr v bance / spořitelně. | ✅ (oficiálně „Rozhodnutí ministra“) |
+| 15 | Zastupování | Plná moc jen pro dotační program; podmínkou je **bankovní identita / eIdentita** žadatele. | — (služba firmy) |
 
-> ⏳ = čeká na ověření · ✅ = potvrzeno · ⚠️ = jinak / nejisté (doplnit do poznámky)
+> ✅ = potvrzeno · ⚠️ = platí s výhradou · ❓ = nejasné / neověřitelné · ⏳ = čeká na ověření
 
 ## Výsledek ověření
 
-> _Sem doplnit výsledek ověření tvrzení výše (datum, zdroj — např. Závazné pokyny RD
-> v. 1.1, web SFŽP — a co se liší)._
+**Ověřeno 14. 10. 2026** proti Závazným pokynům RD v. 1.1 (platné od 24. 6. 2026, stále
+aktuální), výzvě pro banky č. 1/2026/NZÚ FN (16. 9. 2026) a podmínkám bank. Detail se
+zdroji a otázkami k doptání → **[Consultora — ověření nabídky](consultora-overeni.html)**.
+
+Hlavní rozdíly oproti tomu, co Consultora uvedla:
+
+- **Retenční nádrž jen na zálivku z úvěru financovat nejde.** Podpora D.2 vyžaduje
+  využití dešťové vody jako užitkové (WC).
+- **Změnu výkonu FVE** je třeba **oznámit SFŽP přes AIS**, nestačí jen zpráva dozoru.
+  Úvěr se po podání nezvyšuje, menší výkon ho sníží.
+- **Faktury ≥ úvěr platí po jednotlivých opatřeních.** Při nižších výdajích se krátí
+  kompenzace a úroky z rozdílu platíme my.
+- **Čerpání „najednou dopředu“ program negarantuje.** Rozhoduje banka, čerpat jde až po
+  Rozhodnutí ministra.
+- **Loňské předschválení u ČSOB nic nezaručuje.** Bonita se posoudí znovu až s Rozhodnutím
+  ministra. Bezúročný úvěr nabízí od 1. 10. 2026 Buřinka, ČSOB ho zatím připravuje.
+- **Novinka:** barva fasády ze **vzorníku NCS** programu, pokud ji nenavrhne architekt.
+- **Ceny** (110 000 Kč vč. dozoru) odpovídají trhu. Z úvěru jde zaplatit cca 80 000 Kč.
 
 ## Naše součinnost (co po nás Consultora chce)
 

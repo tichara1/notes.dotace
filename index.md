@@ -27,8 +27,8 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
 > naše čísla (limity úvěru, splatnosti, sazby) **sedí**. Souhrn →
 > [Závazné pokyny (úvěr)](02-dotace/zavazne-pokyny-uver.html).
 >
-> ⏳ **Tvrzení Consultory** (čerpání úvěru, co jde z úvěru, FVE, lhůty…) se **ověřují** —
-> výsledky se doplní do [tabulky tvrzení](03-specialiste/consultora.html).
+> ✅ **14. 10. 2026:** verze pokynů je stále platná a **tvrzení Consultory jsou ověřená**.
+> Většina sedí, sporné body jsou sepsané → [Consultora — ověření nabídky](03-specialiste/consultora-overeni.html).
 
 ## ✅ Co je teď potřeba (další kroky)
 
@@ -44,7 +44,12 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
 - [ ] **Potvrdit Consultoře Fáze 1–4** (+ technický dozor) — nabídka platí jen do
       **~26. 10. 2026**; pokud to nestihneme, požádat o prodloužení
 - [ ] Zřídit **bankovní identitu / eIdentitu** (podmínka plné moci pro Consultoru)
-- [ ] Domluvit **prověření bonity** (přes poradce banky od Consultory, nebo sami)
+- [ ] 📧 **Doptat se Consultory** na sporné body (čerpání úvěru, osobní dozor před zakrytím
+      izolantu, nádrž jen na zálivku z úvěru nejde, hlášení změny výkonu FVE přes AIS…) →
+      [seznam otázek](03-specialiste/consultora-overeni.html#otazky)
+- [ ] 🏦 **Znovu prověřit bonitu** u banky, která nový bezúročný úvěr nabízí (Buřinka od
+      1. 10. 2026, ČSOB zatím jen připravuje). Loňské předschválení nic nezaručuje →
+      [detail](03-specialiste/consultora-overeni.html#predschvaleni-csob)
 - [ ] Připravit podklady k žádosti → [Podklady — checklist](02-dotace/podklady-checklist.html)
 
 > ⚠️ **Velké platby a realizaci** navázat až na schválení žádosti (Kladné rozhodnutí ministra) a smlouvu o úvěru.
