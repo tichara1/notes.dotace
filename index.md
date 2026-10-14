@@ -51,9 +51,11 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
 - [ ] **Doptat se Consultory** na body z ověření (čerpání, Fáze 0 z úvěru, osobní návštěvy
       dozoru, hlášení změny FVE, nádrž, barva fasády NCS…) →
       [seznam otázek](07-specialiste/consultora-overeni.html#otazky)
-- [ ] Doplnit **podklady pro model**: novější [vyúčtování elektřiny a plynu](03-energie/vyuctovani.html)
-      a chybějící [parametry domu](02-dum/parametry-domu.html); po Fázi 0 přepsat
-      [varianty opatření](04-opatreni/varianty.html)
+- [x] ~~Doplnit vyúčtování elektřiny a plynu~~ — přepsáno 13 dokladů 2021–2026: energie
+      **≈ 107 000 Kč/rok**, plyn ~37 MWh, elektřina ~6,3 MWh, fixace do **15. 11. 2027** →
+      [Vyúčtování](03-energie/vyuctovani.html)
+- [ ] Doplnit **podklady pro model**: chybějící [parametry domu](02-dum/parametry-domu.html)
+      (kotel, otopná soustava); po Fázi 0 přepsat [varianty opatření](04-opatreni/varianty.html)
 - [ ] Připravit podklady k žádosti → [Podklady — checklist](06-dotace/podklady-checklist.html)
 
 > ⚠️ **Velké platby a realizaci** navázat až na schválení žádosti (Kladné rozhodnutí ministra) a smlouvu o úvěru.
