@@ -23,11 +23,11 @@ Dům: RD, kolaudace **2009**, Porotherm **bez zateplení**, obec u Dřetovic (ok
 
 | Oblast | Stav teď | Co chceme | Priorita (must/nice) |
 |--------|----------|-----------|----------------------|
-| Zateplení fasády | Porotherm bez zateplení, ~250 m² | Zateplit 250 m² (U ≤ 0,21) | **must** |
-| Střecha / strop | Už zateplená (min. vata) | Oprava izolace po kunách (pár m²) — kvůli třídě C | **must** (komplexní renovace) |
-| Okna a dveře | Původní | Výměna 56,81 m² (19 oken + 4 dveře), trojsklo Uw ≤ 0,9 | nice — **rozhodne Fáze 0** (Ing. Vitouš počítá varianty s okny / bez oken) |
+| Zateplení fasády | Porotherm bez zateplení, ~250 m² | Zateplit 182,7 m² EPS 200 mm λD 0,039 → U 0,15 (Fáze 0) | **must** |
+| Střecha / strop | Už zateplená (min. vata) | Fáze 0 nezatepluje (U 0,22 vyhoví); oprava po kunách jen z vlastních | volitelně |
+| Okna a dveře | Původní | Výměna 53,3 m² (okna 49,4 + dveře 3,9), Uw ≤ 0,90, Ud ≤ 1,0 | **must** — bez oken KOMPLEX nevyjde (Fáze 0) |
 | Zdroj tepla (kotel / TČ) | Plynový kotel | Ponechat plyn (u komplexní renovace OK; OZE pokryje FVE) | — |
-| Fotovoltaika | Není | FVE ~8 kWp + baterie ~10 kWh (střecha ~40 m²) | **must** (OZE pro komplexní renovaci); Consultora radí dát do žádosti spíš menší výkon |
+| Fotovoltaika | Není | FVE 10 kWp + baterie ≥ 10 kWh (Fáze 0) | **must** (OZE pro komplexní renovaci); Consultora radí dát do žádosti spíš menší výkon |
 | Rekuperace / větrání | Není | Neplánuje se | — |
 | Ohřev vody | Plyn | Z přebytků FVE | nice |
 | Ostatní | — | Wallbox + EV; retenční nádrž z jímky (jen zálivka) | nice — nádrž **jen na zálivku z úvěru nejde** (D.2 vyžaduje WC), hradit z vlastních nebo vynechat |

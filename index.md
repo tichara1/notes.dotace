@@ -11,12 +11,13 @@ Rozcestník k plánování rekonstrukce rodinného domu s dotací **Nová zelen�
 ## 📍 Kde právě jsme
 
 Spolupracujeme s **Consultora s.r.o.** na **NZÚ Bezúročném úvěru — oblast komplexní**.
-**Fáze 0 (energetická studie) je objednaná**, Ing. Vitouš dům zaměřil a počítá
-varianty **s okny / bez oken** → [Consultora — spolupráce](07-specialiste/consultora.html).
+**Výstup Fáze 0 dorazil 15. 10. 2026**: dům splní KOMPLEX **hraničně a jen s výměnou oken**
+(fasáda EPS 200 mm, okna Uw 0,90, FVE 10 kWp), úvěr až **1 830 750 Kč** →
+[Varianty opatření](04-opatreni/varianty.html). Teď se rozhoduje o **Fázích 1–4** (nabídka do ~26. 10. 2026).
 
 | Fáze | Co obsahuje | Stav |
 |------|-------------|------|
-| **1. Příprava** | rozsah, ~~výběr specialisty~~ ✅ Consultora, **Fáze 0 — studie** | 🔵 **← tady jsme** (čeká se na výstup Fáze 0) |
+| **1. Příprava** | rozsah, ~~výběr specialisty~~ ✅ Consultora, ~~Fáze 0 — studie~~ ✅ | 🔵 **← tady jsme** (rozhodnout Fáze 1–4 a stínění) |
 | 2. Žádost | Fáze 1–3: projekt + energetické hodnocení, podání v AIS SFŽP (příjem běží od 25. 6. 2026) | ⏳ čeká |
 | 3. Úvěr + realizace | s Kladným rozhodnutím ministra smlouva s bankou (banky od září 2026), stavba | ⏳ čeká |
 | 4. Doložení a čerpání | Fáze 4: doložení dokončení (36 měsíců od schválení, nejpozději **31. 12. 2031**) | ⏳ čeká |
@@ -40,14 +41,16 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
       (historie výběru → [Archiv](archiv/index.html))
 - [x] ~~Ověřit příjmový decil~~ — spadáme **nad 4. decil → splatnost 15 let**
       (viz [Rešerše](reserse-nzu-2026.html))
-- [ ] **Počkat na výstup Fáze 0** od Ing. Vitouše (varianty s okny / bez oken); pokud
-      nepřijde, připomenout se — dle nabídky měl být do 15 prac. dní od objednávky
-- [ ] **Porovnat výstup Fáze 0 s naším nezávislým modelem** → [Úspory a návratnost](05-model/navratnost.html)
-      (orientačně: A bez oken ≈ +2,8 tis. Kč/měs. během splácení, B s okny ≈ +5,0 tis., po splacení
-      energie ≈ 5,7 / 4,8 tis. Kč/měs. místo dnešních 8,8 tis.; úvěr 2 mil. při
-      tržních cenách nevyjde — strop ≈ 1,07 / 1,6 mil.; **bez oken hrozí, že nesplníme 30 % úspory**).
-      Zeptat se Ing. Vitouše na U stávajících stěn a oken a % úspory ve variantě bez oken.
-- [ ] **Rozhodnout okna ano / ne** podle variant → [Cíl a rozsah](01-prehled/cil-a-rozsah.html)
+- [x] ~~Výstup Fáze 0~~ — dorazil 15. 10. 2026: KOMPLEX **hraničně, jen s okny** →
+      [Varianty opatření](04-opatreni/varianty.html)
+- [x] ~~Porovnat Fázi 0 s naším modelem~~ — model přepočten
+      ([Úspory a návratnost](05-model/navratnost.html)): během splácení ≈ **+3,6 tis. Kč/měs.** proti dnešku,
+      po splacení energie ≈ 4,5 místo 8,8 tis. Kč/měs.; úvěr 1,83 mil. je strop, podle tržních faktur ≈ 1,42 mil.
+- [x] ~~Rozhodnout okna ano / ne~~ — **ano**, bez nich úvěr nevyjde
+- [ ] **Poslat Ing. Vitoušovi otázky k Fázi 0** (rezerva k hraničnímu splnění — stěny k půdě, součet
+      1 827 250 vs 1 830 750, stínění jen na část oken, šedý EPS) → [otázky](04-opatreni/varianty.html)
+- [ ] **Rozhodnout venkovní stínění**: doporučeno jen **západ + východ** (≈ 175 tis. Kč, z úvěru ≈ 77 tis.),
+      dělat spolu s fasádou
 - [ ] **Potvrdit Consultoře Fáze 1–4** (+ technický dozor) — nabídka platí jen do
       **~26. 10. 2026**; pokud to nestihneme, požádat o prodloužení
 - [ ] Zřídit **bankovní identitu / eIdentitu** (podmínka plné moci pro Consultoru)
@@ -60,7 +63,7 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
       **≈ 107 000 Kč/rok**, plyn ~37 MWh, elektřina ~6,3 MWh, fixace do **15. 11. 2027** →
       [Vyúčtování](03-energie/vyuctovani.html)
 - [ ] Doplnit **podklady pro model**: chybějící [parametry domu](02-dum/parametry-domu.html)
-      (kotel, otopná soustava); po Fázi 0 přepsat [varianty opatření](04-opatreni/varianty.html)
+      (kotel, otopná soustava); varianty opatření podle Fáze 0 ✅ [přepsány](04-opatreni/varianty.html)
 - [ ] Připravit podklady k žádosti → [Podklady — checklist](06-dotace/podklady-checklist.html)
 
 > ⚠️ **Velké platby a realizaci** navázat až na schválení žádosti (Kladné rozhodnutí ministra) a smlouvu o úvěru.
@@ -69,7 +72,7 @@ Detailní milníky a termíny → [Harmonogram](01-prehled/harmonogram.html).
 
 | Kdo | K čemu | Telefon | E-mail |
 |-----|--------|---------|--------|
-| **Ing. Jan Vitouš** (Consultora) | Fáze 0 — výstup studie, varianty s okny / bez | 720 348 522 | vitousja@gmail.com |
+| **Ing. Jan Vitouš** (Consultora) | otázky k výstupu Fáze 0, parametry oken a izolantu | 720 348 522 | vitousja@gmail.com |
 | **Jan Škoda** (Consultora, jednatel) | smlouva na Fáze 1–4, nabídka, bonita, plná moc, otázky z ověření | 608 913 596 | jan.skoda@consultora.cz |
 
 Nabídka, ceny a co Consultora tvrdí → [Consultora — spolupráce](07-specialiste/consultora.html).

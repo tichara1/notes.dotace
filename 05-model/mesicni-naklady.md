@@ -6,8 +6,8 @@ nav_order: 3
 
 # Měsíční platby: teď vs. po rekonstrukci
 
-> 🔄 **Novější výpočet (14. 10. 2026)** s plochami z výkresů, cenami energií 2026 a dvěma variantami
-> (bez oken / s okny) je v [Úspory a návratnost](navratnost.html). Čísla níže jsou starší propočet z Rešerše.
+> 🔄 **Novější výpočet podle Fáze 0 (15. 10. 2026)** s cenami energií 2026, variantou bez/se stíněním
+> je v [Úspory a návratnost](navratnost.html). Čísla níže jsou starší propočet z Rešerše.
 
 > **Vše orientační.** Jednotkové ceny energií jsou **skutečné** (z mých faktur),
 > úspory a splátka jsou odhad. Odvození čísel je v

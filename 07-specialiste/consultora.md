@@ -23,7 +23,9 @@ energetické hodnocení, podání žádosti, doložení realizace a volitelně t
 - [x] Nabídka přijata (27. 8. 2026), dotazy zodpovězeny (1. 9. 2026)
 - [x] **Fáze 0 objednána** (11. 9. 2026)
 - [x] Ing. Vitouš **dům zaměřil**
-- [ ] 🔵 **Čeká se na výstup Fáze 0** — Ing. Vitouš počítá **varianty s okny / bez oken**
+- [x] **Výstup Fáze 0 dorazil** (15. 10. 2026) — KOMPLEX splněn **hraničně**, jen s okny; úvěr až 1 830 750 Kč →
+      [Varianty opatření](../04-opatreni/varianty.html)
+- [ ] 🔵 **Rozhodnout o Fázích 1–4** (nabídka platí do ~26. 10. 2026) a předtím odsouhlasit případné změny materiálů
 - [ ] Rozhodnout o oknech a o pokračování (Fáze 1–4 + technický dozor) → smlouva
 - [ ] Ověřit bonitu u banky (Consultora propojí s poradcem banky — nebo jí dát vědět, že řešíme sami)
 
@@ -129,7 +131,7 @@ Bez výměny oken musí výpočet splnit třídu C a úsporu ≥ 30 % se stávaj
 > Seznam otázek, na které se Consultory doptat podle ověření →
 > [Na co se ještě doptat](consultora-overeni.html#otazky).
 
-- [ ] Kdy dorazí výstup Fáze 0? (nabídka: do 15 prac. dní od objednávky 11. 9.)
+- [x] ~~Kdy dorazí výstup Fáze 0?~~ — dorazil 15. 10. 2026
 - [ ] Okna ano / ne — podle variant od Ing. Vitouše
 - [ ] Prodloužit platnost nabídky, pokud smlouvu na Fáze 1–4 nestihneme do ~26. 10. 2026?
 - [ ] Bonitu ověří banka přes Consultoru, nebo si ji zajistíme sami? (loňské předschválení **nemá právní účinek** — ověřit znovu)

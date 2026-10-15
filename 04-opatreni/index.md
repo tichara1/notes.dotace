@@ -8,10 +8,10 @@ has_children: true
 
 **Co sem patří:** navržená opatření (zateplení, okna, FVE…), jejich varianty
 a parametry, které musí splnit, a výběr konkrétních materiálů a výrobků.
-Primárním zdrojem bude **výstup Fáze 0 od Consultory** (zatím nemáme — Ing. Vitouš
-počítá varianty s okny / bez oken).
+Primárním zdrojem je **výstup Fáze 0 od Consultory** (15. 10. 2026): plný rozsah
+fasáda + okna + FVE, varianta bez oken podmínky nesplní.
 
-- [Varianty opatření](varianty.html) — co a v jakém rozsahu, varianta s okny vs. bez oken
+- [Varianty opatření](varianty.html) — rozsah a parametry podle Fáze 0, skladby konstrukcí, venkovní stínění
 - [Materiály a výrobky](materialy.html) — porovnání materiálů podle parametrů a ceny
 
 ## Jak doplňovat

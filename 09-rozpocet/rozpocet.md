@@ -32,14 +32,18 @@ nav_order: 9
 | **Celkem** | **~1 455 000** |
 
 ## Poznámky
+- **Fáze 0 (15. 10. 2026)** → [Varianty opatření](../04-opatreni/varianty.html): fasáda 182,7 m² (EPS 200 mm),
+  okna + dveře 53,3 m², FVE 10 kWp + 10 kWh, volitelně stínění 49,4 m²; **předpokládaný úvěr 1 830 750 Kč**
+  (strop při limitních cenách). Model při tržních cenách: investice ≈ 1,61 mil., úvěr ≈ 1,42 mil.,
+  vlastní ≈ 192 tis. Kč (A); se stíněním západ + východ ≈ 1,79 / 1,50 mil. / 289 tis. Kč →
+  [Úspory a návratnost](../05-model/navratnost.html). **Služby Consultory z úvěru nejdou** (jen přímé realizační náklady).
+  Tabulky výše jsou starší rešerše a přepíšou se podle nabídek firem.
 - **Nezávislý model 14. 10. 2026** ([Úspory a návratnost](../05-model/navratnost.html)): A (bez oken)
   ≈ 1,18 mil. Kč investice / úvěr ≈ 1,07 mil.; B (s okny) ≈ 1,74 mil. / úvěr ≈ 1,6 mil. **Úvěr 2 mil. Kč
   při tržních cenách nevyjde** — úvěr nesmí převýšit faktury za způsobilá opatření.
 - **Retenční nádrž jen na zálivku z úvěru financovat nejde** (D.2 vyžaduje WC) → 100 000
   v krytí úvěrem neplatí; přepočítat spolu s variantami.
-- **Součty výše ještě nezahrnují nabídku Consultory** (+~110 000 Kč místo 3–8 tis.) —
-  přepočítat po výstupu Fáze 0 (varianta s okny / bez oken).
-- **Vejde se do stropu 2 mil. Kč** komplexní renovace (rezerva ~545 tis.).
+- **Součty výše ještě nezahrnují nabídku Consultory** (+~110 000 Kč místo 3–8 tis.) — aktuální propočet viz první bod.
 - **Měsíční splátka ~8 000 Kč** (15 let, bezúročně) — viz [Měsíční platby](../05-model/mesicni-naklady.html).
 - **Cash-flow:** během splácení je splátka vyšší než energetická úspora; s EV se
   rozdíl díky úspoře paliva téměř vyrovná. Po splacení čistá úspora ~47 tis. Kč/rok.

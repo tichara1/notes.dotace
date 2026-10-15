@@ -13,7 +13,7 @@ Pořadí kroků u NZÚ 2026+ podle postupu s [Consultorou](../07-specialiste/con
 |---|--------|--------------|------|----------|
 | 1 | Ujasnit rozsah rekonstrukce |  | ◐ | rozpracováno; okna rozhodne Fáze 0 → [Cíl a rozsah](cil-a-rozsah.html) |
 | 2 | Oslovit energetického specialistu | 19. 7. 2026 | ☑ | vybrána Consultora → [Specialisté](../07-specialiste/energeticky-specialista.html) |
-| 3 | **Fáze 0 — energetická studie** (zaměření, varianty s okny / bez) | do 15 prac. dní od objednávky 11. 9. | ◐ | zaměřeno, čeká se na výstup |
+| 3 | **Fáze 0 — energetická studie** (zaměření, varianty s okny / bez) | do 15 prac. dní od objednávky 11. 9. | ✅ | výstup 15. 10. 2026 → [varianty](../04-opatreni/varianty.html) |
 | 4 | Rozhodnout financování (úvěr vs dotace) |  | ☑ | bezúročný úvěr → [Financování](../06-dotace/financovani.html) |
 | 5 | Smlouva na Fáze 1–4 (+ TDI) | nabídka platí do ~26. 10. 2026 | ☐ | po výstupu Fáze 0 |
 | 6 | Fáze 1 + 2 — projekt + energetické hodnocení | do 6 týdnů od smlouvy | ☐ |  |
