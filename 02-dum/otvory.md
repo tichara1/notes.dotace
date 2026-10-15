@@ -6,8 +6,8 @@ nav_order: 2
 
 # Okna a dveře — zaměřené otvory
 
-> Převzato z [Rešerše, sekce 0.1](../reserse-nzu-2026.html). Zda se okna budou měnit,
-> rozhodne výstup Fáze 0 (varianty s okny / bez oken) → [Opatření](../04-opatreni/varianty.html).
+> Převzato z [Rešerše, sekce 0.1](../reserse-nzu-2026.html). Okna se **mění** — bez nich
+> KOMPLEX nevyjde (Fáze 0, 15. 10. 2026; plocha dle zaměření 53,3 m²) → [Opatření](../04-opatreni/varianty.html).
 
 | Patro | Otvor | m² | | Patro | Otvor | m² |
 |---|---|---|---|---|---|---|

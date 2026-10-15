@@ -11,7 +11,7 @@ Co je potřeba doložit. Odškrtávej `- [x]`, doplňuj stav a kde dokument je.
 Podklady zpracovává / kompletuje **Consultora** → [Consultora — spolupráce](../07-specialiste/consultora.html).
 
 ## Před žádostí
-- [ ] Energetická studie (Fáze 0) — _Consultora, Ing. Vitouš; dům zaměřen, čeká se na výstup_
+- [x] Energetická studie (Fáze 0) — Consultora, výstup 15. 10. 2026 → [Varianty opatření](../04-opatreni/varianty.html)
 - [ ] Projektová dokumentace k žádosti (Fáze 1) + energetické hodnocení / PENB (Fáze 2) — _Consultora_
 - [x] PD starého stavu předána Consultoře (24. 8. 2026; část schémat jen focená)
 - [ ] List vlastnictví domu

@@ -9,6 +9,7 @@ nav_order: 10
 
 | Datum | S kým / čeho se týká | Co se domluvilo | Další krok |
 |-------|----------------------|-----------------|------------|
+| 15. 10. 2026 | Ing. Vitouš (Consultora) — výstup Fáze 0 | KOMPLEX splněn hraničně jen s okny; fasáda EPS 200 mm, okna Uw 0,90, FVE 10 kWp; úvěr až 1 830 750 Kč → [varianty](../04-opatreni/varianty.html) | Otázky k Fázi 0, rozhodnout stínění a Fáze 1–4 do ~26. 10. |
 | 14. 10. 2026 | Ověření nabídky Consultory | Tvrzení zkontrolována proti pokynům; rozdíly u nádrže, FVE, faktur, čerpání → [ověření](../07-specialiste/consultora-overeni.html) | Doptat se Consultory |
 | do 14. 10. 2026 | Ing. Vitouš (Consultora) — Fáze 0 | Dům zaměřen; počítá varianty **s okny / bez oken** | Čekáme na výstup Fáze 0 |
 | 11. 9. 2026 | Jan Škoda (Consultora) | Potvrdil objednávku Fáze 0; ozve se Ing. Vitouš kvůli prohlídce | Domluvit prohlídku |
@@ -28,4 +29,5 @@ a odkaž je tady.
 |----------|--------|-------|----------|
 | Nabídka Consultora — NZÚ Bezúročný úvěr, komplexní opatření | _není v repu (e-mail)_ | 27. 8. 2026 | shrnutí → [Consultora — spolupráce](../07-specialiste/consultora.html) |
 | E-mailová konverzace s Consultorou („Poptávka – podklady pro NZÚ 2026") | _Gmail, štítek dotace_ | 19. 7. – 11. 9. 2026 | výtah v deníku výše |
+| Výsledky Fáze 0 + očekávaná výše úvěru + skladby konstrukcí | _není v repu (obsahuje adresu)_ | 15. 10. 2026 | shrnutí → [Varianty opatření](../04-opatreni/varianty.html) |
 | Závazné pokyny NZÚ RD — úvěr, v. 1.1 | [PDF](../docs/NZU/1782380387_NZU26_RD_uver_1.aktualizace_2026-06-24.pdf) | 24. 6. 2026 | souhrn → [Závazné pokyny (úvěr)](../06-dotace/zavazne-pokyny-uver.html) |

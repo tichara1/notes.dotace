@@ -50,6 +50,12 @@ nav_order: 1
 ## Plochy z výkresů
 {: #plochy-z-vykresu}
 
+> ✅ **Závazné plochy jsou z Fáze 0 (zaměření Ing. Vitouše, 15. 10. 2026):** zateplované stěny **182,7 m²**,
+> okna **49,4 m²** + vchodové dveře **3,9 m²**; stávající stěna Porotherm 40 P+D, U ≈ 0,42 W/m²K;
+> střecha U 0,22; stěny k nevytápěné půdě U 1,3–1,7 → [Varianty opatření](../04-opatreni/varianty.html).
+> Okna podle stran (z pohledů, přepočteno na 49,4 m²): západ ≈ 21,5, jih ≈ 11,4, východ ≈ 4,1, sever ≈ 12,4 m².
+> Měření z výkresů níže je jen orientační.
+
 Změřeno 14. 10. 2026 z DXF projektové dokumentace (projekt 2004, stupeň PS; výkresy situace, základy,
 půdorysy, krov, řezy, pohledy — originály jen v `_soukrome/`, obsahují adresu).
 
